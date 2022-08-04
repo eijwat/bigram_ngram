@@ -1,0 +1,1728 @@
+Searching word = 'red', '0'
+[]
+Searching word = '0', 'red'
+["('0', 'red')1"]
+Searching word = 'red', '1'
+[]
+Searching word = '1', 'red'
+["('1', 'red')5"]
+Searching word = 'red', '2'
+["('red', '2')4"]
+Searching word = '2', 'red'
+["('2', 'red')1"]
+Searching word = 'red', '3'
+[]
+Searching word = '3', 'red'
+["('3', 'red')1"]
+Searching word = 'red', '4'
+[]
+Searching word = '4', 'red'
+[]
+Searching word = 'red', '5'
+["('red', '5')1"]
+Searching word = '5', 'red'
+["('5', 'red')1"]
+Searching word = 'red', '6'
+["('red', '6')1"]
+Searching word = '6', 'red'
+["('6', 'red')1"]
+Searching word = 'red', '7'
+["('red', '7')3", "('red', '7')2"]
+Searching word = '7', 'red'
+[]
+Searching word = 'red', '8'
+[]
+Searching word = '8', 'red'
+[]
+Searching word = 'red', '9'
+[]
+Searching word = '9', 'red'
+["('9', 'red')2"]
+Searching word = 'blue', '0'
+[]
+Searching word = '0', 'blue'
+[]
+Searching word = 'blue', '1'
+["('blue', '1')1"]
+Searching word = '1', 'blue'
+["('1', 'blue')2"]
+Searching word = 'blue', '2'
+["('blue', '2')1"]
+Searching word = '2', 'blue'
+[]
+Searching word = 'blue', '3'
+["('blue', '3')1"]
+Searching word = '3', 'blue'
+[]
+Searching word = 'blue', '4'
+[]
+Searching word = '4', 'blue'
+[]
+Searching word = 'blue', '5'
+[]
+Searching word = '5', 'blue'
+["('5', 'blue')1"]
+Searching word = 'blue', '6'
+[]
+Searching word = '6', 'blue'
+[]
+Searching word = 'blue', '7'
+[]
+Searching word = '7', 'blue'
+[]
+Searching word = 'blue', '8'
+[]
+Searching word = '8', 'blue'
+[]
+Searching word = 'blue', '9'
+[]
+Searching word = '9', 'blue'
+[]
+Searching word = 'green', '0'
+[]
+Searching word = '0', 'green'
+[]
+Searching word = 'green', '1'
+[]
+Searching word = '1', 'green'
+["('1', 'green')2"]
+Searching word = 'green', '2'
+["('green', '2')1"]
+Searching word = '2', 'green'
+["('2', 'green')1"]
+Searching word = 'green', '3'
+["('green', '3')2"]
+Searching word = '3', 'green'
+[]
+Searching word = 'green', '4'
+[]
+Searching word = '4', 'green'
+[]
+Searching word = 'green', '5'
+["('green', '5')1"]
+Searching word = '5', 'green'
+[]
+Searching word = 'green', '6'
+[]
+Searching word = '6', 'green'
+[]
+Searching word = 'green', '7'
+[]
+Searching word = '7', 'green'
+[]
+Searching word = 'green', '8'
+[]
+Searching word = '8', 'green'
+[]
+Searching word = 'green', '9'
+[]
+Searching word = '9', 'green'
+[]
+Searching word = 'yellow', '0'
+[]
+Searching word = '0', 'yellow'
+[]
+Searching word = 'yellow', '1'
+[]
+Searching word = '1', 'yellow'
+[]
+Searching word = 'yellow', '2'
+["('yellow', '2')1"]
+Searching word = '2', 'yellow'
+[]
+Searching word = 'yellow', '3'
+["('yellow', '3')2"]
+Searching word = '3', 'yellow'
+[]
+Searching word = 'yellow', '4'
+[]
+Searching word = '4', 'yellow'
+[]
+Searching word = 'yellow', '5'
+["('yellow', '5')1"]
+Searching word = '5', 'yellow'
+[]
+Searching word = 'yellow', '6'
+[]
+Searching word = '6', 'yellow'
+[]
+Searching word = 'yellow', '7'
+[]
+Searching word = '7', 'yellow'
+[]
+Searching word = 'yellow', '8'
+[]
+Searching word = '8', 'yellow'
+[]
+Searching word = 'yellow', '9'
+[]
+Searching word = '9', 'yellow'
+[]
+Searching word = 'orange', '0'
+[]
+Searching word = '0', 'orange'
+[]
+Searching word = 'orange', '1'
+["('orange', '1')1"]
+Searching word = '1', 'orange'
+[]
+Searching word = 'orange', '2'
+[]
+Searching word = '2', 'orange'
+["('2', 'orange')1"]
+Searching word = 'orange', '3'
+["('orange', '3')1"]
+Searching word = '3', 'orange'
+[]
+Searching word = 'orange', '4'
+[]
+Searching word = '4', 'orange'
+[]
+Searching word = 'orange', '5'
+[]
+Searching word = '5', 'orange'
+["('5', 'orange')1"]
+Searching word = 'orange', '6'
+[]
+Searching word = '6', 'orange'
+[]
+Searching word = 'orange', '7'
+[]
+Searching word = '7', 'orange'
+[]
+Searching word = 'orange', '8'
+[]
+Searching word = '8', 'orange'
+["('8', 'orange')1", "('8', 'orange')1"]
+Searching word = 'orange', '9'
+[]
+Searching word = '9', 'orange'
+[]
+Searching word = 'purple', '0'
+[]
+Searching word = '0', 'purple'
+[]
+Searching word = 'purple', '1'
+[]
+Searching word = '1', 'purple'
+[]
+Searching word = 'purple', '2'
+[]
+Searching word = '2', 'purple'
+[]
+Searching word = 'purple', '3'
+[]
+Searching word = '3', 'purple'
+[]
+Searching word = 'purple', '4'
+[]
+Searching word = '4', 'purple'
+[]
+Searching word = 'purple', '5'
+[]
+Searching word = '5', 'purple'
+["('5', 'purple')1"]
+Searching word = 'purple', '6'
+[]
+Searching word = '6', 'purple'
+[]
+Searching word = 'purple', '7'
+[]
+Searching word = '7', 'purple'
+[]
+Searching word = 'purple', '8'
+[]
+Searching word = '8', 'purple'
+[]
+Searching word = 'purple', '9'
+[]
+Searching word = '9', 'purple'
+[]
+Searching word = 'pink', '0'
+[]
+Searching word = '0', 'pink'
+[]
+Searching word = 'pink', '1'
+[]
+Searching word = '1', 'pink'
+[]
+Searching word = 'pink', '2'
+[]
+Searching word = '2', 'pink'
+[]
+Searching word = 'pink', '3'
+[]
+Searching word = '3', 'pink'
+[]
+Searching word = 'pink', '4'
+["('pink', '4')1"]
+Searching word = '4', 'pink'
+[]
+Searching word = 'pink', '5'
+[]
+Searching word = '5', 'pink'
+[]
+Searching word = 'pink', '6'
+[]
+Searching word = '6', 'pink'
+[]
+Searching word = 'pink', '7'
+[]
+Searching word = '7', 'pink'
+[]
+Searching word = 'pink', '8'
+[]
+Searching word = '8', 'pink'
+[]
+Searching word = 'pink', '9'
+[]
+Searching word = '9', 'pink'
+[]
+Searching word = 'brown', '0'
+["('brown', '0')2"]
+Searching word = '0', 'brown'
+[]
+Searching word = 'brown', '1'
+["('brown', '1')1"]
+Searching word = '1', 'brown'
+["('1', 'brown')1"]
+Searching word = 'brown', '2'
+[]
+Searching word = '2', 'brown'
+[]
+Searching word = 'brown', '3'
+[]
+Searching word = '3', 'brown'
+["('3', 'brown')1"]
+Searching word = 'brown', '4'
+["('brown', '4')3"]
+Searching word = '4', 'brown'
+["('4', 'brown')1"]
+Searching word = 'brown', '5'
+[]
+Searching word = '5', 'brown'
+["('5', 'brown')1"]
+Searching word = 'brown', '6'
+[]
+Searching word = '6', 'brown'
+[]
+Searching word = 'brown', '7'
+[]
+Searching word = '7', 'brown'
+[]
+Searching word = 'brown', '8'
+["('brown', '8')1"]
+Searching word = '8', 'brown'
+[]
+Searching word = 'brown', '9'
+[]
+Searching word = '9', 'brown'
+[]
+Searching word = 'white', '0'
+[]
+Searching word = '0', 'white'
+[]
+Searching word = 'white', '1'
+["('white', '1')1", "('white', '1')1"]
+Searching word = '1', 'white'
+["('1', 'white')1"]
+Searching word = 'white', '2'
+["('white', '2')5", "('white', '2')1"]
+Searching word = '2', 'white'
+["('2', 'white')1", "('2', 'white')1"]
+Searching word = 'white', '3'
+[]
+Searching word = '3', 'white'
+["('3', 'white')1"]
+Searching word = 'white', '4'
+["('white', '4')1"]
+Searching word = '4', 'white'
+["('4', 'white')1"]
+Searching word = 'white', '5'
+["('white', '5')1"]
+Searching word = '5', 'white'
+["('5', 'white')1"]
+Searching word = 'white', '6'
+["('white', '6')1"]
+Searching word = '6', 'white'
+["('6', 'white')1"]
+Searching word = 'white', '7'
+[]
+Searching word = '7', 'white'
+[]
+Searching word = 'white', '8'
+["('white', '8')1"]
+Searching word = '8', 'white'
+[]
+Searching word = 'white', '9'
+["('white', '9')1"]
+Searching word = '9', 'white'
+[]
+Searching word = 'black', '0'
+["('black', '0')1"]
+Searching word = '0', 'black'
+["('0', 'black')3"]
+Searching word = 'black', '1'
+["('black', '1')2"]
+Searching word = '1', 'black'
+["('1', 'black')1"]
+Searching word = 'black', '2'
+["('black', '2')3", "('black', '2')1"]
+Searching word = '2', 'black'
+["('2', 'black')1"]
+Searching word = 'black', '3'
+["('black', '3')7"]
+Searching word = '3', 'black'
+[]
+Searching word = 'black', '4'
+["('black', '4')1"]
+Searching word = '4', 'black'
+[]
+Searching word = 'black', '5'
+["('black', '5')1"]
+Searching word = '5', 'black'
+[]
+Searching word = 'black', '6'
+[]
+Searching word = '6', 'black'
+["('6', 'black')2"]
+Searching word = 'black', '7'
+[]
+Searching word = '7', 'black'
+[]
+Searching word = 'black', '8'
+[]
+Searching word = '8', 'black'
+[]
+Searching word = 'black', '9'
+[]
+Searching word = '9', 'black'
+["('9', 'black')1", "('9', 'black')1"]
+Searching word = 'grey', '0'
+[]
+Searching word = '0', 'grey'
+[]
+Searching word = 'grey', '1'
+[]
+Searching word = '1', 'grey'
+[]
+Searching word = 'grey', '2'
+[]
+Searching word = '2', 'grey'
+[]
+Searching word = 'grey', '3'
+[]
+Searching word = '3', 'grey'
+[]
+Searching word = 'grey', '4'
+[]
+Searching word = '4', 'grey'
+[]
+Searching word = 'grey', '5'
+[]
+Searching word = '5', 'grey'
+[]
+Searching word = 'grey', '6'
+[]
+Searching word = '6', 'grey'
+["('6', 'grey')1"]
+Searching word = 'grey', '7'
+[]
+Searching word = '7', 'grey'
+[]
+Searching word = 'grey', '8'
+[]
+Searching word = '8', 'grey'
+[]
+Searching word = 'grey', '9'
+[]
+Searching word = '9', 'grey'
+[]
+Searching word = 'gray', '0'
+[]
+Searching word = '0', 'gray'
+[]
+Searching word = 'gray', '1'
+[]
+Searching word = '1', 'gray'
+[]
+Searching word = 'gray', '2'
+[]
+Searching word = '2', 'gray'
+[]
+Searching word = 'gray', '3'
+[]
+Searching word = '3', 'gray'
+[]
+Searching word = 'gray', '4'
+[]
+Searching word = '4', 'gray'
+[]
+Searching word = 'gray', '5'
+["('gray', '5')1"]
+Searching word = '5', 'gray'
+[]
+Searching word = 'gray', '6'
+[]
+Searching word = '6', 'gray'
+["('6', 'gray')1"]
+Searching word = 'gray', '7'
+[]
+Searching word = '7', 'gray'
+[]
+Searching word = 'gray', '8'
+[]
+Searching word = '8', 'gray'
+[]
+Searching word = 'gray', '9'
+[]
+Searching word = '9', 'gray'
+[]
+Searching word = 'red', 'a'
+["('red', 'a')2", "('red', 'a')1"]
+Searching word = 'a', 'red'
+["('a', 'red')1410", "('a', 'red')53", "('a', 'red')113", "('a', 'red')9"]
+Searching word = 'red', 'b'
+[]
+Searching word = 'b', 'red'
+[]
+Searching word = 'red', 'c'
+["('red', 'c')2", "('red', 'c')1"]
+Searching word = 'c', 'red'
+[]
+Searching word = 'red', 'd'
+["('red', 'd')1"]
+Searching word = 'd', 'red'
+[]
+Searching word = 'red', 'e'
+["('red', 'e')1"]
+Searching word = 'e', 'red'
+[]
+Searching word = 'red', 'f'
+[]
+Searching word = 'f', 'red'
+[]
+Searching word = 'red', 'g'
+[]
+Searching word = 'g', 'red'
+[]
+Searching word = 'red', 'h'
+[]
+Searching word = 'h', 'red'
+[]
+Searching word = 'red', 'i'
+[]
+Searching word = 'i', 'red'
+[]
+Searching word = 'red', 'j'
+[]
+Searching word = 'j', 'red'
+[]
+Searching word = 'red', 'k'
+[]
+Searching word = 'k', 'red'
+[]
+Searching word = 'red', 'l'
+[]
+Searching word = 'l', 'red'
+[]
+Searching word = 'red', 'm'
+["('red', 'm')1"]
+Searching word = 'm', 'red'
+["('m', 'red')1"]
+Searching word = 'red', 'n'
+[]
+Searching word = 'n', 'red'
+[]
+Searching word = 'red', 'o'
+["('red', 'o')1"]
+Searching word = 'o', 'red'
+["('o', 'red')1"]
+Searching word = 'red', 'p'
+[]
+Searching word = 'p', 'red'
+[]
+Searching word = 'red', 'q'
+[]
+Searching word = 'q', 'red'
+[]
+Searching word = 'red', 'r'
+[]
+Searching word = 'r', 'red'
+[]
+Searching word = 'red', 's'
+[]
+Searching word = 's', 'red'
+["('s', 'red')4"]
+Searching word = 'red', 't'
+["('red', 't')3", "('red', 't')1"]
+Searching word = 't', 'red'
+[]
+Searching word = 'red', 'u'
+[]
+Searching word = 'u', 'red'
+[]
+Searching word = 'red', 'v'
+["('red', 'v')1"]
+Searching word = 'v', 'red'
+[]
+Searching word = 'red', 'w'
+[]
+Searching word = 'w', 'red'
+[]
+Searching word = 'red', 'x'
+["('red', 'x')1", "('red', 'x')1"]
+Searching word = 'x', 'red'
+["('x', 'red')1"]
+Searching word = 'red', 'y'
+[]
+Searching word = 'y', 'red'
+[]
+Searching word = 'red', 'z'
+[]
+Searching word = 'z', 'red'
+[]
+Searching word = 'blue', 'a'
+["('blue', 'a')1"]
+Searching word = 'a', 'blue'
+["('a', 'blue')734", "('a', 'blue')4", "('a', 'blue')78", "('a', 'blue')29"]
+Searching word = 'blue', 'b'
+["('blue', 'b')1"]
+Searching word = 'b', 'blue'
+[]
+Searching word = 'blue', 'c'
+[]
+Searching word = 'c', 'blue'
+["('c', 'blue')1"]
+Searching word = 'blue', 'd'
+[]
+Searching word = 'd', 'blue'
+[]
+Searching word = 'blue', 'e'
+[]
+Searching word = 'e', 'blue'
+[]
+Searching word = 'blue', 'f'
+[]
+Searching word = 'f', 'blue'
+[]
+Searching word = 'blue', 'g'
+[]
+Searching word = 'g', 'blue'
+[]
+Searching word = 'blue', 'h'
+[]
+Searching word = 'h', 'blue'
+[]
+Searching word = 'blue', 'i'
+["('blue', 'i')1"]
+Searching word = 'i', 'blue'
+[]
+Searching word = 'blue', 'j'
+[]
+Searching word = 'j', 'blue'
+[]
+Searching word = 'blue', 'k'
+[]
+Searching word = 'k', 'blue'
+[]
+Searching word = 'blue', 'l'
+[]
+Searching word = 'l', 'blue'
+[]
+Searching word = 'blue', 'm'
+[]
+Searching word = 'm', 'blue'
+[]
+Searching word = 'blue', 'n'
+[]
+Searching word = 'n', 'blue'
+["('n', 'blue')6", "('n', 'blue')9"]
+Searching word = 'blue', 'o'
+["('blue', 'o')1"]
+Searching word = 'o', 'blue'
+[]
+Searching word = 'blue', 'p'
+[]
+Searching word = 'p', 'blue'
+[]
+Searching word = 'blue', 'q'
+[]
+Searching word = 'q', 'blue'
+[]
+Searching word = 'blue', 'r'
+["('blue', 'r')1"]
+Searching word = 'r', 'blue'
+[]
+Searching word = 'blue', 's'
+[]
+Searching word = 's', 'blue'
+[]
+Searching word = 'blue', 't'
+["('blue', 't')2", "('blue', 't')1"]
+Searching word = 't', 'blue'
+[]
+Searching word = 'blue', 'u'
+[]
+Searching word = 'u', 'blue'
+[]
+Searching word = 'blue', 'v'
+[]
+Searching word = 'v', 'blue'
+[]
+Searching word = 'blue', 'w'
+[]
+Searching word = 'w', 'blue'
+[]
+Searching word = 'blue', 'x'
+["('blue', 'x')1"]
+Searching word = 'x', 'blue'
+["('x', 'blue')1"]
+Searching word = 'blue', 'y'
+[]
+Searching word = 'y', 'blue'
+[]
+Searching word = 'blue', 'z'
+[]
+Searching word = 'z', 'blue'
+["('z', 'blue')4"]
+Searching word = 'green', 'a'
+["('green', 'a')3", "('green', 'a')1"]
+Searching word = 'a', 'green'
+["('a', 'green')21", "('a', 'green')549", "('a', 'green')46", "('a', 'green')5"]
+Searching word = 'green', 'b'
+[]
+Searching word = 'b', 'green'
+[]
+Searching word = 'green', 'c'
+[]
+Searching word = 'c', 'green'
+[]
+Searching word = 'green', 'd'
+["('green', 'd')1"]
+Searching word = 'd', 'green'
+[]
+Searching word = 'green', 'e'
+["('green', 'e')1"]
+Searching word = 'e', 'green'
+[]
+Searching word = 'green', 'f'
+[]
+Searching word = 'f', 'green'
+[]
+Searching word = 'green', 'g'
+[]
+Searching word = 'g', 'green'
+["('g', 'green')1"]
+Searching word = 'green', 'h'
+[]
+Searching word = 'h', 'green'
+["('h', 'green')2"]
+Searching word = 'green', 'i'
+["('green', 'i')1"]
+Searching word = 'i', 'green'
+[]
+Searching word = 'green', 'j'
+[]
+Searching word = 'j', 'green'
+[]
+Searching word = 'green', 'k'
+[]
+Searching word = 'k', 'green'
+[]
+Searching word = 'green', 'l'
+[]
+Searching word = 'l', 'green'
+[]
+Searching word = 'green', 'm'
+[]
+Searching word = 'm', 'green'
+["('m', 'green')1"]
+Searching word = 'green', 'n'
+[]
+Searching word = 'n', 'green'
+[]
+Searching word = 'green', 'o'
+[]
+Searching word = 'o', 'green'
+["('o', 'green')1"]
+Searching word = 'green', 'p'
+[]
+Searching word = 'p', 'green'
+[]
+Searching word = 'green', 'q'
+[]
+Searching word = 'q', 'green'
+[]
+Searching word = 'green', 'r'
+[]
+Searching word = 'r', 'green'
+[]
+Searching word = 'green', 's'
+["('green', 's')1"]
+Searching word = 's', 'green'
+["('s', 'green')4", "('s', 'green')1"]
+Searching word = 'green', 't'
+["('green', 't')1"]
+Searching word = 't', 'green'
+[]
+Searching word = 'green', 'u'
+["('green', 'u')1"]
+Searching word = 'u', 'green'
+[]
+Searching word = 'green', 'v'
+["('green', 'v')1"]
+Searching word = 'v', 'green'
+["('v', 'green')1"]
+Searching word = 'green', 'w'
+[]
+Searching word = 'w', 'green'
+["('w', 'green')1"]
+Searching word = 'green', 'x'
+[]
+Searching word = 'x', 'green'
+[]
+Searching word = 'green', 'y'
+[]
+Searching word = 'y', 'green'
+[]
+Searching word = 'green', 'z'
+[]
+Searching word = 'z', 'green'
+[]
+Searching word = 'yellow', 'a'
+[]
+Searching word = 'a', 'yellow'
+["('a', 'yellow')532", "('a', 'yellow')11", "('a', 'yellow')14"]
+Searching word = 'yellow', 'b'
+[]
+Searching word = 'b', 'yellow'
+[]
+Searching word = 'yellow', 'c'
+[]
+Searching word = 'c', 'yellow'
+["('c', 'yellow')3"]
+Searching word = 'yellow', 'd'
+[]
+Searching word = 'd', 'yellow'
+[]
+Searching word = 'yellow', 'e'
+[]
+Searching word = 'e', 'yellow'
+[]
+Searching word = 'yellow', 'f'
+[]
+Searching word = 'f', 'yellow'
+[]
+Searching word = 'yellow', 'g'
+["('yellow', 'g')1"]
+Searching word = 'g', 'yellow'
+[]
+Searching word = 'yellow', 'h'
+[]
+Searching word = 'h', 'yellow'
+[]
+Searching word = 'yellow', 'i'
+["('yellow', 'i')1"]
+Searching word = 'i', 'yellow'
+[]
+Searching word = 'yellow', 'j'
+[]
+Searching word = 'j', 'yellow'
+[]
+Searching word = 'yellow', 'k'
+[]
+Searching word = 'k', 'yellow'
+[]
+Searching word = 'yellow', 'l'
+[]
+Searching word = 'l', 'yellow'
+[]
+Searching word = 'yellow', 'm'
+[]
+Searching word = 'm', 'yellow'
+[]
+Searching word = 'yellow', 'n'
+[]
+Searching word = 'n', 'yellow'
+[]
+Searching word = 'yellow', 'o'
+[]
+Searching word = 'o', 'yellow'
+[]
+Searching word = 'yellow', 'p'
+["('yellow', 'p')1"]
+Searching word = 'p', 'yellow'
+[]
+Searching word = 'yellow', 'q'
+[]
+Searching word = 'q', 'yellow'
+[]
+Searching word = 'yellow', 'r'
+[]
+Searching word = 'r', 'yellow'
+[]
+Searching word = 'yellow', 's'
+[]
+Searching word = 's', 'yellow'
+[]
+Searching word = 'yellow', 't'
+[]
+Searching word = 't', 'yellow'
+[]
+Searching word = 'yellow', 'u'
+[]
+Searching word = 'u', 'yellow'
+[]
+Searching word = 'yellow', 'v'
+[]
+Searching word = 'v', 'yellow'
+[]
+Searching word = 'yellow', 'w'
+[]
+Searching word = 'w', 'yellow'
+[]
+Searching word = 'yellow', 'x'
+[]
+Searching word = 'x', 'yellow'
+["('x', 'yellow')2"]
+Searching word = 'yellow', 'y'
+[]
+Searching word = 'y', 'yellow'
+[]
+Searching word = 'yellow', 'z'
+[]
+Searching word = 'z', 'yellow'
+[]
+Searching word = 'orange', 'a'
+[]
+Searching word = 'a', 'orange'
+[]
+Searching word = 'orange', 'b'
+[]
+Searching word = 'b', 'orange'
+[]
+Searching word = 'orange', 'c'
+[]
+Searching word = 'c', 'orange'
+[]
+Searching word = 'orange', 'd'
+[]
+Searching word = 'd', 'orange'
+[]
+Searching word = 'orange', 'e'
+[]
+Searching word = 'e', 'orange'
+[]
+Searching word = 'orange', 'f'
+[]
+Searching word = 'f', 'orange'
+[]
+Searching word = 'orange', 'g'
+[]
+Searching word = 'g', 'orange'
+[]
+Searching word = 'orange', 'h'
+[]
+Searching word = 'h', 'orange'
+[]
+Searching word = 'orange', 'i'
+[]
+Searching word = 'i', 'orange'
+[]
+Searching word = 'orange', 'j'
+[]
+Searching word = 'j', 'orange'
+[]
+Searching word = 'orange', 'k'
+["('orange', 'k')3"]
+Searching word = 'k', 'orange'
+[]
+Searching word = 'orange', 'l'
+[]
+Searching word = 'l', 'orange'
+[]
+Searching word = 'orange', 'm'
+[]
+Searching word = 'm', 'orange'
+[]
+Searching word = 'orange', 'n'
+[]
+Searching word = 'n', 'orange'
+[]
+Searching word = 'orange', 'o'
+[]
+Searching word = 'o', 'orange'
+[]
+Searching word = 'orange', 'p'
+[]
+Searching word = 'p', 'orange'
+[]
+Searching word = 'orange', 'q'
+[]
+Searching word = 'q', 'orange'
+[]
+Searching word = 'orange', 'r'
+[]
+Searching word = 'r', 'orange'
+[]
+Searching word = 'orange', 's'
+[]
+Searching word = 's', 'orange'
+[]
+Searching word = 'orange', 't'
+["('orange', 't')1"]
+Searching word = 't', 'orange'
+[]
+Searching word = 'orange', 'u'
+[]
+Searching word = 'u', 'orange'
+[]
+Searching word = 'orange', 'v'
+[]
+Searching word = 'v', 'orange'
+[]
+Searching word = 'orange', 'w'
+[]
+Searching word = 'w', 'orange'
+[]
+Searching word = 'orange', 'x'
+[]
+Searching word = 'x', 'orange'
+[]
+Searching word = 'orange', 'y'
+[]
+Searching word = 'y', 'orange'
+[]
+Searching word = 'orange', 'z'
+[]
+Searching word = 'z', 'orange'
+[]
+Searching word = 'purple', 'a'
+["('purple', 'a')1"]
+Searching word = 'a', 'purple'
+["('a', 'purple')128", "('a', 'purple')2", "('a', 'purple')21", "('a', 'purple')1"]
+Searching word = 'purple', 'b'
+[]
+Searching word = 'b', 'purple'
+[]
+Searching word = 'purple', 'c'
+[]
+Searching word = 'c', 'purple'
+[]
+Searching word = 'purple', 'd'
+[]
+Searching word = 'd', 'purple'
+[]
+Searching word = 'purple', 'e'
+[]
+Searching word = 'e', 'purple'
+[]
+Searching word = 'purple', 'f'
+[]
+Searching word = 'f', 'purple'
+[]
+Searching word = 'purple', 'g'
+[]
+Searching word = 'g', 'purple'
+[]
+Searching word = 'purple', 'h'
+[]
+Searching word = 'h', 'purple'
+[]
+Searching word = 'purple', 'i'
+[]
+Searching word = 'i', 'purple'
+[]
+Searching word = 'purple', 'j'
+[]
+Searching word = 'j', 'purple'
+[]
+Searching word = 'purple', 'k'
+[]
+Searching word = 'k', 'purple'
+[]
+Searching word = 'purple', 'l'
+[]
+Searching word = 'l', 'purple'
+[]
+Searching word = 'purple', 'm'
+[]
+Searching word = 'm', 'purple'
+[]
+Searching word = 'purple', 'n'
+[]
+Searching word = 'n', 'purple'
+[]
+Searching word = 'purple', 'o'
+[]
+Searching word = 'o', 'purple'
+[]
+Searching word = 'purple', 'p'
+[]
+Searching word = 'p', 'purple'
+[]
+Searching word = 'purple', 'q'
+[]
+Searching word = 'q', 'purple'
+[]
+Searching word = 'purple', 'r'
+[]
+Searching word = 'r', 'purple'
+[]
+Searching word = 'purple', 's'
+[]
+Searching word = 's', 'purple'
+[]
+Searching word = 'purple', 't'
+[]
+Searching word = 't', 'purple'
+[]
+Searching word = 'purple', 'u'
+[]
+Searching word = 'u', 'purple'
+[]
+Searching word = 'purple', 'v'
+[]
+Searching word = 'v', 'purple'
+[]
+Searching word = 'purple', 'w'
+[]
+Searching word = 'w', 'purple'
+[]
+Searching word = 'purple', 'x'
+[]
+Searching word = 'x', 'purple'
+[]
+Searching word = 'purple', 'y'
+[]
+Searching word = 'y', 'purple'
+[]
+Searching word = 'purple', 'z'
+[]
+Searching word = 'z', 'purple'
+[]
+Searching word = 'pink', 'a'
+["('pink', 'a')1"]
+Searching word = 'a', 'pink'
+["('a', 'pink')217", "('a', 'pink')5", "('a', 'pink')18", "('a', 'pink')1"]
+Searching word = 'pink', 'b'
+[]
+Searching word = 'b', 'pink'
+[]
+Searching word = 'pink', 'c'
+[]
+Searching word = 'c', 'pink'
+["('c', 'pink')1"]
+Searching word = 'pink', 'd'
+[]
+Searching word = 'd', 'pink'
+[]
+Searching word = 'pink', 'e'
+[]
+Searching word = 'e', 'pink'
+[]
+Searching word = 'pink', 'f'
+[]
+Searching word = 'f', 'pink'
+[]
+Searching word = 'pink', 'g'
+[]
+Searching word = 'g', 'pink'
+[]
+Searching word = 'pink', 'h'
+[]
+Searching word = 'h', 'pink'
+[]
+Searching word = 'pink', 'i'
+[]
+Searching word = 'i', 'pink'
+[]
+Searching word = 'pink', 'j'
+[]
+Searching word = 'j', 'pink'
+[]
+Searching word = 'pink', 'k'
+[]
+Searching word = 'k', 'pink'
+[]
+Searching word = 'pink', 'l'
+[]
+Searching word = 'l', 'pink'
+[]
+Searching word = 'pink', 'm'
+[]
+Searching word = 'm', 'pink'
+[]
+Searching word = 'pink', 'n'
+[]
+Searching word = 'n', 'pink'
+[]
+Searching word = 'pink', 'o'
+[]
+Searching word = 'o', 'pink'
+[]
+Searching word = 'pink', 'p'
+[]
+Searching word = 'p', 'pink'
+[]
+Searching word = 'pink', 'q'
+[]
+Searching word = 'q', 'pink'
+[]
+Searching word = 'pink', 'r'
+[]
+Searching word = 'r', 'pink'
+[]
+Searching word = 'pink', 's'
+[]
+Searching word = 's', 'pink'
+[]
+Searching word = 'pink', 't'
+["('pink', 't')1"]
+Searching word = 't', 'pink'
+[]
+Searching word = 'pink', 'u'
+[]
+Searching word = 'u', 'pink'
+[]
+Searching word = 'pink', 'v'
+[]
+Searching word = 'v', 'pink'
+[]
+Searching word = 'pink', 'w'
+[]
+Searching word = 'w', 'pink'
+[]
+Searching word = 'pink', 'x'
+[]
+Searching word = 'x', 'pink'
+[]
+Searching word = 'pink', 'y'
+[]
+Searching word = 'y', 'pink'
+[]
+Searching word = 'pink', 'z'
+[]
+Searching word = 'z', 'pink'
+[]
+Searching word = 'brown', 'a'
+["('brown', 'a')19"]
+Searching word = 'a', 'brown'
+["('a', 'brown')195", "('a', 'brown')7", "('a', 'brown')2"]
+Searching word = 'brown', 'b'
+[]
+Searching word = 'b', 'brown'
+[]
+Searching word = 'brown', 'c'
+[]
+Searching word = 'c', 'brown'
+[]
+Searching word = 'brown', 'd'
+[]
+Searching word = 'd', 'brown'
+[]
+Searching word = 'brown', 'e'
+[]
+Searching word = 'e', 'brown'
+[]
+Searching word = 'brown', 'f'
+[]
+Searching word = 'f', 'brown'
+[]
+Searching word = 'brown', 'g'
+[]
+Searching word = 'g', 'brown'
+[]
+Searching word = 'brown', 'h'
+[]
+Searching word = 'h', 'brown'
+["('h', 'brown')2"]
+Searching word = 'brown', 'i'
+["('brown', 'i')3"]
+Searching word = 'i', 'brown'
+["('i', 'brown')1"]
+Searching word = 'brown', 'j'
+[]
+Searching word = 'j', 'brown'
+[]
+Searching word = 'brown', 'k'
+[]
+Searching word = 'k', 'brown'
+[]
+Searching word = 'brown', 'l'
+[]
+Searching word = 'l', 'brown'
+[]
+Searching word = 'brown', 'm'
+[]
+Searching word = 'm', 'brown'
+[]
+Searching word = 'brown', 'n'
+[]
+Searching word = 'n', 'brown'
+["('n', 'brown')1"]
+Searching word = 'brown', 'o'
+[]
+Searching word = 'o', 'brown'
+[]
+Searching word = 'brown', 'p'
+[]
+Searching word = 'p', 'brown'
+[]
+Searching word = 'brown', 'q'
+[]
+Searching word = 'q', 'brown'
+[]
+Searching word = 'brown', 'r'
+[]
+Searching word = 'r', 'brown'
+["('r', 'brown')1"]
+Searching word = 'brown', 's'
+[]
+Searching word = 's', 'brown'
+[]
+Searching word = 'brown', 't'
+[]
+Searching word = 't', 'brown'
+["('t', 'brown')1"]
+Searching word = 'brown', 'u'
+[]
+Searching word = 'u', 'brown'
+[]
+Searching word = 'brown', 'v'
+["('brown', 'v')1"]
+Searching word = 'v', 'brown'
+["('v', 'brown')3", "('v', 'brown')1"]
+Searching word = 'brown', 'w'
+[]
+Searching word = 'w', 'brown'
+[]
+Searching word = 'brown', 'x'
+[]
+Searching word = 'x', 'brown'
+[]
+Searching word = 'brown', 'y'
+[]
+Searching word = 'y', 'brown'
+[]
+Searching word = 'brown', 'z'
+[]
+Searching word = 'z', 'brown'
+[]
+Searching word = 'white', 'a'
+["('white', 'a')6", "('white', 'a')4"]
+Searching word = 'a', 'white'
+["('a', 'white')2075", "('a', 'white')135", "('a', 'white')62", "('a', 'white')8"]
+Searching word = 'white', 'b'
+["('white', 'b')3"]
+Searching word = 'b', 'white'
+[]
+Searching word = 'white', 'c'
+[]
+Searching word = 'c', 'white'
+[]
+Searching word = 'white', 'd'
+[]
+Searching word = 'd', 'white'
+[]
+Searching word = 'white', 'e'
+[]
+Searching word = 'e', 'white'
+[]
+Searching word = 'white', 'f'
+["('white', 'f')3"]
+Searching word = 'f', 'white'
+[]
+Searching word = 'white', 'g'
+[]
+Searching word = 'g', 'white'
+[]
+Searching word = 'white', 'h'
+["('white', 'h')1"]
+Searching word = 'h', 'white'
+[]
+Searching word = 'white', 'i'
+[]
+Searching word = 'i', 'white'
+[]
+Searching word = 'white', 'j'
+[]
+Searching word = 'j', 'white'
+[]
+Searching word = 'white', 'k'
+[]
+Searching word = 'k', 'white'
+["('k', 'white')1"]
+Searching word = 'white', 'l'
+[]
+Searching word = 'l', 'white'
+[]
+Searching word = 'white', 'm'
+[]
+Searching word = 'm', 'white'
+["('m', 'white')2"]
+Searching word = 'white', 'n'
+[]
+Searching word = 'n', 'white'
+[]
+Searching word = 'white', 'o'
+[]
+Searching word = 'o', 'white'
+[]
+Searching word = 'white', 'p'
+[]
+Searching word = 'p', 'white'
+[]
+Searching word = 'white', 'q'
+[]
+Searching word = 'q', 'white'
+[]
+Searching word = 'white', 'r'
+[]
+Searching word = 'r', 'white'
+[]
+Searching word = 'white', 's'
+["('white', 's')1"]
+Searching word = 's', 'white'
+[]
+Searching word = 'white', 't'
+["('white', 't')6", "('white', 't')17", "('white', 't')8"]
+Searching word = 't', 'white'
+[]
+Searching word = 'white', 'u'
+[]
+Searching word = 'u', 'white'
+[]
+Searching word = 'white', 'v'
+["('white', 'v')2", "('white', 'v')1", "('white', 'v')1"]
+Searching word = 'v', 'white'
+[]
+Searching word = 'white', 'w'
+["('white', 'w')1"]
+Searching word = 'w', 'white'
+[]
+Searching word = 'white', 'x'
+[]
+Searching word = 'x', 'white'
+[]
+Searching word = 'white', 'y'
+[]
+Searching word = 'y', 'white'
+[]
+Searching word = 'white', 'z'
+[]
+Searching word = 'z', 'white'
+[]
+Searching word = 'black', 'a'
+["('black', 'a')11", "('black', 'a')1"]
+Searching word = 'a', 'black'
+["('a', 'black')2128", "('a', 'black')145", "('a', 'black')68"]
+Searching word = 'black', 'b'
+[]
+Searching word = 'b', 'black'
+[]
+Searching word = 'black', 'c'
+[]
+Searching word = 'c', 'black'
+[]
+Searching word = 'black', 'd'
+[]
+Searching word = 'd', 'black'
+[]
+Searching word = 'black', 'e'
+["('black', 'e')1"]
+Searching word = 'e', 'black'
+[]
+Searching word = 'black', 'f'
+["('black', 'f')1"]
+Searching word = 'f', 'black'
+[]
+Searching word = 'black', 'g'
+[]
+Searching word = 'g', 'black'
+[]
+Searching word = 'black', 'h'
+[]
+Searching word = 'h', 'black'
+[]
+Searching word = 'black', 'i'
+["('black', 'i')1"]
+Searching word = 'i', 'black'
+["('i', 'black')1"]
+Searching word = 'black', 'j'
+[]
+Searching word = 'j', 'black'
+[]
+Searching word = 'black', 'k'
+[]
+Searching word = 'k', 'black'
+[]
+Searching word = 'black', 'l'
+["('black', 'l')1"]
+Searching word = 'l', 'black'
+[]
+Searching word = 'black', 'm'
+[]
+Searching word = 'm', 'black'
+[]
+Searching word = 'black', 'n'
+["('black', 'n')9", "('black', 'n')1"]
+Searching word = 'n', 'black'
+["('n', 'black')1"]
+Searching word = 'black', 'o'
+[]
+Searching word = 'o', 'black'
+[]
+Searching word = 'black', 'p'
+["('black', 'p')1"]
+Searching word = 'p', 'black'
+[]
+Searching word = 'black', 'q'
+[]
+Searching word = 'q', 'black'
+[]
+Searching word = 'black', 'r'
+[]
+Searching word = 'r', 'black'
+[]
+Searching word = 'black', 's'
+[]
+Searching word = 's', 'black'
+["('s', 'black')1", "('s', 'black')4"]
+Searching word = 'black', 't'
+["('black', 't')12"]
+Searching word = 't', 'black'
+[]
+Searching word = 'black', 'u'
+[]
+Searching word = 'u', 'black'
+[]
+Searching word = 'black', 'v'
+["('black', 'v')1"]
+Searching word = 'v', 'black'
+[]
+Searching word = 'black', 'w'
+["('black', 'w')1", "('black', 'w')1"]
+Searching word = 'w', 'black'
+[]
+Searching word = 'black', 'x'
+["('black', 'x')1"]
+Searching word = 'x', 'black'
+[]
+Searching word = 'black', 'y'
+[]
+Searching word = 'y', 'black'
+[]
+Searching word = 'black', 'z'
+[]
+Searching word = 'z', 'black'
+[]
+Searching word = 'grey', 'a'
+["('grey', 'a')1"]
+Searching word = 'a', 'grey'
+["('a', 'grey')153", "('a', 'grey')23", "('a', 'grey')4"]
+Searching word = 'grey', 'b'
+[]
+Searching word = 'b', 'grey'
+[]
+Searching word = 'grey', 'c'
+[]
+Searching word = 'c', 'grey'
+[]
+Searching word = 'grey', 'd'
+[]
+Searching word = 'd', 'grey'
+[]
+Searching word = 'grey', 'e'
+[]
+Searching word = 'e', 'grey'
+[]
+Searching word = 'grey', 'f'
+[]
+Searching word = 'f', 'grey'
+[]
+Searching word = 'grey', 'g'
+[]
+Searching word = 'g', 'grey'
+[]
+Searching word = 'grey', 'h'
+[]
+Searching word = 'h', 'grey'
+[]
+Searching word = 'grey', 'i'
+[]
+Searching word = 'i', 'grey'
+[]
+Searching word = 'grey', 'j'
+[]
+Searching word = 'j', 'grey'
+[]
+Searching word = 'grey', 'k'
+[]
+Searching word = 'k', 'grey'
+[]
+Searching word = 'grey', 'l'
+[]
+Searching word = 'l', 'grey'
+[]
+Searching word = 'grey', 'm'
+[]
+Searching word = 'm', 'grey'
+[]
+Searching word = 'grey', 'n'
+[]
+Searching word = 'n', 'grey'
+[]
+Searching word = 'grey', 'o'
+[]
+Searching word = 'o', 'grey'
+[]
+Searching word = 'grey', 'p'
+[]
+Searching word = 'p', 'grey'
+[]
+Searching word = 'grey', 'q'
+[]
+Searching word = 'q', 'grey'
+[]
+Searching word = 'grey', 'r'
+[]
+Searching word = 'r', 'grey'
+[]
+Searching word = 'grey', 's'
+[]
+Searching word = 's', 'grey'
+["('s', 'grey')3", "('s', 'grey')1"]
+Searching word = 'grey', 't'
+[]
+Searching word = 't', 'grey'
+[]
+Searching word = 'grey', 'u'
+[]
+Searching word = 'u', 'grey'
+[]
+Searching word = 'grey', 'v'
+["('grey', 'v')1"]
+Searching word = 'v', 'grey'
+[]
+Searching word = 'grey', 'w'
+[]
+Searching word = 'w', 'grey'
+[]
+Searching word = 'grey', 'x'
+[]
+Searching word = 'x', 'grey'
+[]
+Searching word = 'grey', 'y'
+[]
+Searching word = 'y', 'grey'
+[]
+Searching word = 'grey', 'z'
+[]
+Searching word = 'z', 'grey'
+[]
+Searching word = 'gray', 'a'
+["('gray', 'a')3"]
+Searching word = 'a', 'gray'
+["('a', 'gray')106", "('a', 'gray')2"]
+Searching word = 'gray', 'b'
+[]
+Searching word = 'b', 'gray'
+[]
+Searching word = 'gray', 'c'
+[]
+Searching word = 'c', 'gray'
+[]
+Searching word = 'gray', 'd'
+[]
+Searching word = 'd', 'gray'
+[]
+Searching word = 'gray', 'e'
+[]
+Searching word = 'e', 'gray'
+[]
+Searching word = 'gray', 'f'
+[]
+Searching word = 'f', 'gray'
+["('f', 'gray')1"]
+Searching word = 'gray', 'g'
+[]
+Searching word = 'g', 'gray'
+[]
+Searching word = 'gray', 'h'
+[]
+Searching word = 'h', 'gray'
+[]
+Searching word = 'gray', 'i'
+[]
+Searching word = 'i', 'gray'
+[]
+Searching word = 'gray', 'j'
+[]
+Searching word = 'j', 'gray'
+[]
+Searching word = 'gray', 'k'
+[]
+Searching word = 'k', 'gray'
+[]
+Searching word = 'gray', 'l'
+[]
+Searching word = 'l', 'gray'
+[]
+Searching word = 'gray', 'm'
+[]
+Searching word = 'm', 'gray'
+[]
+Searching word = 'gray', 'n'
+[]
+Searching word = 'n', 'gray'
+[]
+Searching word = 'gray', 'o'
+[]
+Searching word = 'o', 'gray'
+[]
+Searching word = 'gray', 'p'
+[]
+Searching word = 'p', 'gray'
+[]
+Searching word = 'gray', 'q'
+[]
+Searching word = 'q', 'gray'
+[]
+Searching word = 'gray', 'r'
+[]
+Searching word = 'r', 'gray'
+[]
+Searching word = 'gray', 's'
+[]
+Searching word = 's', 'gray'
+[]
+Searching word = 'gray', 't'
+["('gray', 't')2"]
+Searching word = 't', 'gray'
+[]
+Searching word = 'gray', 'u'
+[]
+Searching word = 'u', 'gray'
+[]
+Searching word = 'gray', 'v'
+[]
+Searching word = 'v', 'gray'
+[]
+Searching word = 'gray', 'w'
+[]
+Searching word = 'w', 'gray'
+[]
+Searching word = 'gray', 'x'
+[]
+Searching word = 'x', 'gray'
+[]
+Searching word = 'gray', 'y'
+[]
+Searching word = 'y', 'gray'
+[]
+Searching word = 'gray', 'z'
+[]
+Searching word = 'z', 'gray'
+[]

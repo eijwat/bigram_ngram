@@ -1,0 +1,24 @@
+Searching word = 'red'
+["('red')10253", "('red')10319", "('red')42", "(''red')4"]
+Searching word = 'blue'
+["('blue')5226", "('blue')6143", "('blue')3"]
+Searching word = 'green'
+["('green')6544", "('green')5295"]
+Searching word = 'yellow'
+["('yellow')4631", "('yellow')1259"]
+Searching word = 'orange'
+["('orange')1733", "('orange')1838", "('orange')8"]
+Searching word = 'purple'
+["('purple')922", "('purple')585"]
+Searching word = 'pink'
+["('pink')1460", "('pink')1382", "('pink')3"]
+Searching word = 'brown'
+["('brown')4909", "('brown')9367"]
+Searching word = 'white'
+["('white')16967", "('white')11758"]
+Searching word = 'black'
+["('black')15683", "('black')11546", "('black')3"]
+Searching word = 'grey'
+["('grey')1806", "('grey')2245"]
+Searching word = 'gray'
+["('gray')1795", "('gray')1819"]
