@@ -1,137 +1,137 @@
 Searching word = 'red'and'a'
-1588
+10502
 Searching word = 'red'and'b'
-0
+11
 Searching word = 'red'and'c'
-3
+41
 Searching word = 'red'and'd'
-1
+14
 Searching word = 'red'and'e'
-1
+12
 Searching word = 'red'and'f'
-0
+4
 Searching word = 'red'and'g'
-0
+5
 Searching word = 'red'and'h'
-0
+6
 Searching word = 'red'and'i'
-0
+69
 Searching word = 'red'and'j'
-0
+3
 Searching word = 'red'and'k'
-0
+6
 Searching word = 'red'and'l'
 0
 Searching word = 'red'and'm'
-2
+40
 Searching word = 'red'and'n'
-0
-Searching word = 'red'and'o'
-2
-Searching word = 'red'and'p'
-0
-Searching word = 'red'and'q'
-0
-Searching word = 'red'and'r'
-0
-Searching word = 'red'and's'
-4
-Searching word = 'red'and't'
-4
-Searching word = 'red'and'u'
-0
-Searching word = 'red'and'v'
-1
-Searching word = 'red'and'w'
-0
-Searching word = 'red'and'x'
 3
+Searching word = 'red'and'o'
+25
+Searching word = 'red'and'p'
+5
+Searching word = 'red'and'q'
+2
+Searching word = 'red'and'r'
+6
+Searching word = 'red'and's'
+34
+Searching word = 'red'and't'
+30
+Searching word = 'red'and'u'
+2
+Searching word = 'red'and'v'
+19
+Searching word = 'red'and'w'
+13
+Searching word = 'red'and'x'
+55
 Searching word = 'red'and'y'
-0
+5
 Searching word = 'red'and'z'
-0
+1
 Searching word = 'blue'and'a'
-846
+6156
 Searching word = 'blue'and'b'
-1
+22
 Searching word = 'blue'and'c'
-1
+7
 Searching word = 'blue'and'd'
-0
+13
 Searching word = 'blue'and'e'
-0
+6
 Searching word = 'blue'and'f'
-0
+5
 Searching word = 'blue'and'g'
-0
+6
 Searching word = 'blue'and'h'
-0
+18
 Searching word = 'blue'and'i'
-1
+46
 Searching word = 'blue'and'j'
 0
 Searching word = 'blue'and'k'
-0
+4
 Searching word = 'blue'and'l'
-0
+8
 Searching word = 'blue'and'm'
-0
+16
 Searching word = 'blue'and'n'
-15
+69
 Searching word = 'blue'and'o'
-1
+16
 Searching word = 'blue'and'p'
-0
+1
 Searching word = 'blue'and'q'
 0
 Searching word = 'blue'and'r'
-1
+6
 Searching word = 'blue'and's'
-0
+17
 Searching word = 'blue'and't'
-3
+20
 Searching word = 'blue'and'u'
 0
 Searching word = 'blue'and'v'
-0
+9
 Searching word = 'blue'and'w'
-0
+5
 Searching word = 'blue'and'x'
-2
+10
 Searching word = 'blue'and'y'
-0
+5
 Searching word = 'blue'and'z'
-4
+18
 Searching word = 'green'and'a'
-625
+5082
 Searching word = 'green'and'b'
-0
+15
 Searching word = 'green'and'c'
-0
+8
 Searching word = 'green'and'd'
-1
+15
 Searching word = 'green'and'e'
-1
+18
 Searching word = 'green'and'f'
 0
 Searching word = 'green'and'g'
-1
+8
 Searching word = 'green'and'h'
-2
+14
 Searching word = 'green'and'i'
-1
+55
 Searching word = 'green'and'j'
-0
+2
 Searching word = 'green'and'k'
-0
+3
 Searching word = 'green'and'l'
-0
+3
 Searching word = 'green'and'm'
-1
+16
 Searching word = 'green'and'n'
 0
 Searching word = 'green'and'o'
-1
+16
 Searching word = 'green'and'p'
 0
 Searching word = 'green'and'q'
@@ -139,131 +139,131 @@ Searching word = 'green'and'q'
 Searching word = 'green'and'r'
 0
 Searching word = 'green'and's'
-6
+65
 Searching word = 'green'and't'
-1
+11
 Searching word = 'green'and'u'
-1
+4
 Searching word = 'green'and'v'
-2
+15
 Searching word = 'green'and'w'
-1
+6
 Searching word = 'green'and'x'
-0
+5
 Searching word = 'green'and'y'
-0
+1
 Searching word = 'green'and'z'
 0
 Searching word = 'yellow'and'a'
-557
+3697
 Searching word = 'yellow'and'b'
-0
+6
 Searching word = 'yellow'and'c'
-3
+15
 Searching word = 'yellow'and'd'
-0
+6
 Searching word = 'yellow'and'e'
-0
+4
 Searching word = 'yellow'and'f'
-0
+6
 Searching word = 'yellow'and'g'
-1
+9
 Searching word = 'yellow'and'h'
 0
 Searching word = 'yellow'and'i'
-1
+33
 Searching word = 'yellow'and'j'
-0
+6
 Searching word = 'yellow'and'k'
 0
 Searching word = 'yellow'and'l'
-0
+7
 Searching word = 'yellow'and'm'
-0
+15
 Searching word = 'yellow'and'n'
 0
 Searching word = 'yellow'and'o'
-0
+5
 Searching word = 'yellow'and'p'
-1
+4
 Searching word = 'yellow'and'q'
 0
 Searching word = 'yellow'and'r'
-0
+6
 Searching word = 'yellow'and's'
-0
+20
 Searching word = 'yellow'and't'
-0
+3
 Searching word = 'yellow'and'u'
-0
-Searching word = 'yellow'and'v'
-0
-Searching word = 'yellow'and'w'
-0
-Searching word = 'yellow'and'x'
 2
+Searching word = 'yellow'and'v'
+5
+Searching word = 'yellow'and'w'
+2
+Searching word = 'yellow'and'x'
+14
 Searching word = 'yellow'and'y'
 0
 Searching word = 'yellow'and'z'
-0
+1
 Searching word = 'orange'and'a'
-0
+976
 Searching word = 'orange'and'b'
 0
 Searching word = 'orange'and'c'
-0
+4
 Searching word = 'orange'and'd'
-0
+4
 Searching word = 'orange'and'e'
 0
 Searching word = 'orange'and'f'
-0
+1
 Searching word = 'orange'and'g'
 0
 Searching word = 'orange'and'h'
 0
 Searching word = 'orange'and'i'
-0
+17
 Searching word = 'orange'and'j'
 0
 Searching word = 'orange'and'k'
-3
+19
 Searching word = 'orange'and'l'
-0
+3
 Searching word = 'orange'and'm'
-0
+7
 Searching word = 'orange'and'n'
-0
+1
 Searching word = 'orange'and'o'
 0
 Searching word = 'orange'and'p'
-0
+1
 Searching word = 'orange'and'q'
 0
 Searching word = 'orange'and'r'
-0
-Searching word = 'orange'and's'
-0
-Searching word = 'orange'and't'
 1
+Searching word = 'orange'and's'
+3
+Searching word = 'orange'and't'
+5
 Searching word = 'orange'and'u'
 0
 Searching word = 'orange'and'v'
-0
+2
 Searching word = 'orange'and'w'
 0
 Searching word = 'orange'and'x'
-0
+2
 Searching word = 'orange'and'y'
 0
 Searching word = 'orange'and'z'
 0
 Searching word = 'purple'and'a'
-153
+975
 Searching word = 'purple'and'b'
 0
 Searching word = 'purple'and'c'
-0
+2
 Searching word = 'purple'and'd'
 0
 Searching word = 'purple'and'e'
@@ -275,15 +275,15 @@ Searching word = 'purple'and'g'
 Searching word = 'purple'and'h'
 0
 Searching word = 'purple'and'i'
-0
+5
 Searching word = 'purple'and'j'
 0
 Searching word = 'purple'and'k'
-0
+3
 Searching word = 'purple'and'l'
 0
 Searching word = 'purple'and'm'
-0
+2
 Searching word = 'purple'and'n'
 0
 Searching word = 'purple'and'o'
@@ -291,43 +291,43 @@ Searching word = 'purple'and'o'
 Searching word = 'purple'and'p'
 0
 Searching word = 'purple'and'q'
-0
+1
 Searching word = 'purple'and'r'
 0
 Searching word = 'purple'and's'
-0
+3
 Searching word = 'purple'and't'
 0
 Searching word = 'purple'and'u'
 0
 Searching word = 'purple'and'v'
-0
+4
 Searching word = 'purple'and'w'
-0
+3
 Searching word = 'purple'and'x'
-0
+2
 Searching word = 'purple'and'y'
 0
 Searching word = 'purple'and'z'
 0
 Searching word = 'pink'and'a'
-242
+1754
 Searching word = 'pink'and'b'
-0
+4
 Searching word = 'pink'and'c'
-1
+4
 Searching word = 'pink'and'd'
 0
 Searching word = 'pink'and'e'
 0
 Searching word = 'pink'and'f'
-0
+2
 Searching word = 'pink'and'g'
-0
+2
 Searching word = 'pink'and'h'
 0
 Searching word = 'pink'and'i'
-0
+7
 Searching word = 'pink'and'j'
 0
 Searching word = 'pink'and'k'
@@ -335,77 +335,77 @@ Searching word = 'pink'and'k'
 Searching word = 'pink'and'l'
 0
 Searching word = 'pink'and'm'
-0
+2
 Searching word = 'pink'and'n'
-0
+2
 Searching word = 'pink'and'o'
-0
+10
 Searching word = 'pink'and'p'
-0
+3
 Searching word = 'pink'and'q'
-0
+3
 Searching word = 'pink'and'r'
 0
 Searching word = 'pink'and's'
-0
+2
 Searching word = 'pink'and't'
-1
+18
 Searching word = 'pink'and'u'
-0
+2
 Searching word = 'pink'and'v'
-0
+3
 Searching word = 'pink'and'w'
 0
 Searching word = 'pink'and'x'
 0
 Searching word = 'pink'and'y'
-0
+2
 Searching word = 'pink'and'z'
 0
 Searching word = 'brown'and'a'
-223
+4759
 Searching word = 'brown'and'b'
-0
+23
 Searching word = 'brown'and'c'
-0
+4
 Searching word = 'brown'and'd'
-0
+74
 Searching word = 'brown'and'e'
-0
+2
 Searching word = 'brown'and'f'
 0
 Searching word = 'brown'and'g'
-0
+3
 Searching word = 'brown'and'h'
-2
+10
 Searching word = 'brown'and'i'
-4
+63
 Searching word = 'brown'and'j'
-0
+1
 Searching word = 'brown'and'k'
 0
 Searching word = 'brown'and'l'
 0
 Searching word = 'brown'and'm'
-0
+35
 Searching word = 'brown'and'n'
-1
+9
 Searching word = 'brown'and'o'
-0
+29
 Searching word = 'brown'and'p'
 0
 Searching word = 'brown'and'q'
-0
+1
 Searching word = 'brown'and'r'
-1
+14
 Searching word = 'brown'and's'
-0
+41
 Searching word = 'brown'and't'
-1
+13
 Searching word = 'brown'and'u'
 0
 Searching word = 'brown'and'v'
-5
+24
 Searching word = 'brown'and'w'
 0
 Searching word = 'brown'and'x'
@@ -413,119 +413,119 @@ Searching word = 'brown'and'x'
 Searching word = 'brown'and'y'
 0
 Searching word = 'brown'and'z'
-0
-Searching word = 'white'and'a'
-2290
-Searching word = 'white'and'b'
-3
-Searching word = 'white'and'c'
-0
-Searching word = 'white'and'd'
-0
-Searching word = 'white'and'e'
-0
-Searching word = 'white'and'f'
-3
-Searching word = 'white'and'g'
-0
-Searching word = 'white'and'h'
-1
-Searching word = 'white'and'i'
-0
-Searching word = 'white'and'j'
-0
-Searching word = 'white'and'k'
-1
-Searching word = 'white'and'l'
-0
-Searching word = 'white'and'm'
 2
+Searching word = 'white'and'a'
+16045
+Searching word = 'white'and'b'
+30
+Searching word = 'white'and'c'
+23
+Searching word = 'white'and'd'
+21
+Searching word = 'white'and'e'
+20
+Searching word = 'white'and'f'
+14
+Searching word = 'white'and'g'
+5
+Searching word = 'white'and'h'
+12
+Searching word = 'white'and'i'
+116
+Searching word = 'white'and'j'
+3
+Searching word = 'white'and'k'
+4
+Searching word = 'white'and'l'
+13
+Searching word = 'white'and'm'
+48
 Searching word = 'white'and'n'
-0
+7
 Searching word = 'white'and'o'
-0
+16
 Searching word = 'white'and'p'
-0
+6
 Searching word = 'white'and'q'
-0
+7
 Searching word = 'white'and'r'
-0
+7
 Searching word = 'white'and's'
-1
+58
 Searching word = 'white'and't'
-31
+141
 Searching word = 'white'and'u'
 0
 Searching word = 'white'and'v'
-4
+37
 Searching word = 'white'and'w'
-1
+23
 Searching word = 'white'and'x'
-0
+8
 Searching word = 'white'and'y'
-0
+11
 Searching word = 'white'and'z'
-0
+6
 Searching word = 'black'and'a'
-2353
+15512
 Searching word = 'black'and'b'
-0
+25
 Searching word = 'black'and'c'
-0
+11
 Searching word = 'black'and'd'
-0
+18
 Searching word = 'black'and'e'
-1
+16
 Searching word = 'black'and'f'
-1
+7
 Searching word = 'black'and'g'
-0
+9
 Searching word = 'black'and'h'
 0
 Searching word = 'black'and'i'
-2
+132
 Searching word = 'black'and'j'
-0
+7
 Searching word = 'black'and'k'
 0
 Searching word = 'black'and'l'
-1
+10
 Searching word = 'black'and'm'
-0
+34
 Searching word = 'black'and'n'
-11
+78
 Searching word = 'black'and'o'
-0
+21
 Searching word = 'black'and'p'
-1
+16
 Searching word = 'black'and'q'
-0
+3
 Searching word = 'black'and'r'
-0
+8
 Searching word = 'black'and's'
-5
+51
 Searching word = 'black'and't'
-12
+70
 Searching word = 'black'and'u'
-0
+1
 Searching word = 'black'and'v'
-1
+23
 Searching word = 'black'and'w'
-2
+14
 Searching word = 'black'and'x'
-1
+64
 Searching word = 'black'and'y'
-0
+6
 Searching word = 'black'and'z'
-0
+11
 Searching word = 'grey'and'a'
-181
+1781
 Searching word = 'grey'and'b'
 0
 Searching word = 'grey'and'c'
-0
+1
 Searching word = 'grey'and'd'
-0
+1
 Searching word = 'grey'and'e'
 0
 Searching word = 'grey'and'f'
@@ -535,7 +535,7 @@ Searching word = 'grey'and'g'
 Searching word = 'grey'and'h'
 0
 Searching word = 'grey'and'i'
-0
+20
 Searching word = 'grey'and'j'
 0
 Searching word = 'grey'and'k'
@@ -543,11 +543,11 @@ Searching word = 'grey'and'k'
 Searching word = 'grey'and'l'
 0
 Searching word = 'grey'and'm'
-0
+6
 Searching word = 'grey'and'n'
 0
 Searching word = 'grey'and'o'
-0
+4
 Searching word = 'grey'and'p'
 0
 Searching word = 'grey'and'q'
@@ -555,13 +555,13 @@ Searching word = 'grey'and'q'
 Searching word = 'grey'and'r'
 0
 Searching word = 'grey'and's'
-4
+79
 Searching word = 'grey'and't'
-0
+3
 Searching word = 'grey'and'u'
 0
 Searching word = 'grey'and'v'
-1
+7
 Searching word = 'grey'and'w'
 0
 Searching word = 'grey'and'x'
@@ -569,37 +569,37 @@ Searching word = 'grey'and'x'
 Searching word = 'grey'and'y'
 0
 Searching word = 'grey'and'z'
-0
+1
 Searching word = 'gray'and'a'
-111
+1370
 Searching word = 'gray'and'b'
 0
 Searching word = 'gray'and'c'
-0
+5
 Searching word = 'gray'and'd'
-0
+7
 Searching word = 'gray'and'e'
-0
+2
 Searching word = 'gray'and'f'
-1
+4
 Searching word = 'gray'and'g'
-0
+2
 Searching word = 'gray'and'h'
-0
+2
 Searching word = 'gray'and'i'
-0
+11
 Searching word = 'gray'and'j'
 0
 Searching word = 'gray'and'k'
-0
+2
 Searching word = 'gray'and'l'
-0
+1
 Searching word = 'gray'and'm'
-0
+8
 Searching word = 'gray'and'n'
 0
 Searching word = 'gray'and'o'
-0
+7
 Searching word = 'gray'and'p'
 0
 Searching word = 'gray'and'q'
@@ -607,397 +607,397 @@ Searching word = 'gray'and'q'
 Searching word = 'gray'and'r'
 0
 Searching word = 'gray'and's'
-0
+58
 Searching word = 'gray'and't'
-2
+8
 Searching word = 'gray'and'u'
 0
 Searching word = 'gray'and'v'
-0
+4
 Searching word = 'gray'and'w'
 0
 Searching word = 'gray'and'x'
 0
 Searching word = 'gray'and'y'
-0
+3
 Searching word = 'gray'and'z'
 0
 Searching word = 'red'and'0'
-1
+22
 Searching word = 'red'and'1'
-5
+104
 Searching word = 'red'and'2'
-5
+145
 Searching word = 'red'and'3'
-1
+87
 Searching word = 'red'and'4'
-0
+67
 Searching word = 'red'and'5'
-2
+75
 Searching word = 'red'and'6'
-2
+47
 Searching word = 'red'and'7'
-5
+59
 Searching word = 'red'and'8'
-0
+35
 Searching word = 'red'and'9'
-2
+30
 Searching word = 'blue'and'0'
-0
+19
 Searching word = 'blue'and'1'
-3
+55
 Searching word = 'blue'and'2'
-1
+66
 Searching word = 'blue'and'3'
-1
+55
 Searching word = 'blue'and'4'
-0
+23
 Searching word = 'blue'and'5'
-1
+15
 Searching word = 'blue'and'6'
-0
+30
 Searching word = 'blue'and'7'
-0
+13
 Searching word = 'blue'and'8'
-0
+14
 Searching word = 'blue'and'9'
-0
+13
 Searching word = 'green'and'0'
-0
+23
 Searching word = 'green'and'1'
-2
+115
 Searching word = 'green'and'2'
-2
+70
 Searching word = 'green'and'3'
-2
+72
 Searching word = 'green'and'4'
-0
+44
 Searching word = 'green'and'5'
-1
+38
 Searching word = 'green'and'6'
-0
+29
 Searching word = 'green'and'7'
-0
+17
 Searching word = 'green'and'8'
-0
+36
 Searching word = 'green'and'9'
-0
+36
 Searching word = 'yellow'and'0'
-0
+3
 Searching word = 'yellow'and'1'
-0
+42
 Searching word = 'yellow'and'2'
-1
+40
 Searching word = 'yellow'and'3'
-2
+20
 Searching word = 'yellow'and'4'
-0
+11
 Searching word = 'yellow'and'5'
-1
+14
 Searching word = 'yellow'and'6'
-0
+24
 Searching word = 'yellow'and'7'
-0
+12
 Searching word = 'yellow'and'8'
-0
+7
 Searching word = 'yellow'and'9'
-0
+4
 Searching word = 'orange'and'0'
 0
 Searching word = 'orange'and'1'
-1
+20
 Searching word = 'orange'and'2'
-1
+14
 Searching word = 'orange'and'3'
-1
+15
 Searching word = 'orange'and'4'
-0
+8
 Searching word = 'orange'and'5'
-1
+12
 Searching word = 'orange'and'6'
-0
+10
 Searching word = 'orange'and'7'
-0
+22
 Searching word = 'orange'and'8'
-2
+9
 Searching word = 'orange'and'9'
-0
+5
 Searching word = 'purple'and'0'
-0
-Searching word = 'purple'and'1'
-0
-Searching word = 'purple'and'2'
-0
-Searching word = 'purple'and'3'
-0
-Searching word = 'purple'and'4'
-0
-Searching word = 'purple'and'5'
 1
+Searching word = 'purple'and'1'
+1
+Searching word = 'purple'and'2'
+6
+Searching word = 'purple'and'3'
+2
+Searching word = 'purple'and'4'
+2
+Searching word = 'purple'and'5'
+6
 Searching word = 'purple'and'6'
-0
+5
 Searching word = 'purple'and'7'
 0
 Searching word = 'purple'and'8'
 0
 Searching word = 'purple'and'9'
-0
+2
 Searching word = 'pink'and'0'
-0
+3
 Searching word = 'pink'and'1'
-0
+14
 Searching word = 'pink'and'2'
-0
+17
 Searching word = 'pink'and'3'
-0
+13
 Searching word = 'pink'and'4'
-1
+9
 Searching word = 'pink'and'5'
-0
+6
 Searching word = 'pink'and'6'
-0
+1
 Searching word = 'pink'and'7'
-0
+1
 Searching word = 'pink'and'8'
-0
+3
 Searching word = 'pink'and'9'
 0
 Searching word = 'brown'and'0'
-2
+25
 Searching word = 'brown'and'1'
-2
+88
 Searching word = 'brown'and'2'
-0
+38
 Searching word = 'brown'and'3'
-1
+43
 Searching word = 'brown'and'4'
-4
+55
 Searching word = 'brown'and'5'
-1
+30
 Searching word = 'brown'and'6'
-0
+45
 Searching word = 'brown'and'7'
-0
+18
 Searching word = 'brown'and'8'
-1
+38
 Searching word = 'brown'and'9'
-0
+18
 Searching word = 'white'and'0'
-0
+179
 Searching word = 'white'and'1'
-3
+249
 Searching word = 'white'and'2'
-8
+191
 Searching word = 'white'and'3'
-1
+189
 Searching word = 'white'and'4'
-2
+149
 Searching word = 'white'and'5'
-2
+157
 Searching word = 'white'and'6'
-2
+102
 Searching word = 'white'and'7'
-0
+110
 Searching word = 'white'and'8'
-1
+77
 Searching word = 'white'and'9'
-1
+99
 Searching word = 'black'and'0'
-4
+114
 Searching word = 'black'and'1'
-3
+149
 Searching word = 'black'and'2'
-5
+158
 Searching word = 'black'and'3'
-7
+127
 Searching word = 'black'and'4'
-1
+91
 Searching word = 'black'and'5'
-1
+88
 Searching word = 'black'and'6'
-2
+85
 Searching word = 'black'and'7'
-0
+44
 Searching word = 'black'and'8'
-0
+52
 Searching word = 'black'and'9'
-2
+56
 Searching word = 'grey'and'0'
-0
+4
 Searching word = 'grey'and'1'
-0
+11
 Searching word = 'grey'and'2'
-0
+2
 Searching word = 'grey'and'3'
-0
+6
 Searching word = 'grey'and'4'
-0
+12
 Searching word = 'grey'and'5'
-0
+4
 Searching word = 'grey'and'6'
-1
+8
 Searching word = 'grey'and'7'
-0
+5
 Searching word = 'grey'and'8'
 0
 Searching word = 'grey'and'9'
-0
+4
 Searching word = 'gray'and'0'
-0
+2
 Searching word = 'gray'and'1'
-0
+4
 Searching word = 'gray'and'2'
-0
+2
 Searching word = 'gray'and'3'
-0
+10
 Searching word = 'gray'and'4'
-0
+9
 Searching word = 'gray'and'5'
-1
+6
 Searching word = 'gray'and'6'
-1
+10
 Searching word = 'gray'and'7'
-0
+10
 Searching word = 'gray'and'8'
-0
+3
 Searching word = 'gray'and'9'
 0
 Searching word = 'red'and'zero'
-0
+6
 Searching word = 'red'and'one'
-41
+447
 Searching word = 'red'and'two'
-56
+501
 Searching word = 'red'and'three'
-19
+264
 Searching word = 'red'and'four'
-7
+142
 Searching word = 'red'and'five'
-9
+101
 Searching word = 'red'and'six'
-11
+105
 Searching word = 'red'and'seven'
-2
+29
 Searching word = 'red'and'eight'
-6
+48
 Searching word = 'red'and'nine'
-1
-Searching word = 'blue'and'zero'
-0
-Searching word = 'blue'and'one'
 22
-Searching word = 'blue'and'two'
-21
-Searching word = 'blue'and'three'
-7
-Searching word = 'blue'and'four'
-6
-Searching word = 'blue'and'five'
-14
-Searching word = 'blue'and'six'
+Searching word = 'blue'and'zero'
 3
+Searching word = 'blue'and'one'
+237
+Searching word = 'blue'and'two'
+248
+Searching word = 'blue'and'three'
+114
+Searching word = 'blue'and'four'
+127
+Searching word = 'blue'and'five'
+111
+Searching word = 'blue'and'six'
+48
 Searching word = 'blue'and'seven'
-2
+22
 Searching word = 'blue'and'eight'
-0
+5
 Searching word = 'blue'and'nine'
-0
+5
 Searching word = 'green'and'zero'
 0
 Searching word = 'green'and'one'
-22
+288
 Searching word = 'green'and'two'
-20
+201
 Searching word = 'green'and'three'
-4
+116
 Searching word = 'green'and'four'
-2
+43
 Searching word = 'green'and'five'
-3
+41
 Searching word = 'green'and'six'
-0
+27
 Searching word = 'green'and'seven'
-1
+14
 Searching word = 'green'and'eight'
-1
+9
 Searching word = 'green'and'nine'
-0
+10
 Searching word = 'yellow'and'zero'
-0
+1
 Searching word = 'yellow'and'one'
-8
+104
 Searching word = 'yellow'and'two'
-28
+193
 Searching word = 'yellow'and'three'
-1
+31
 Searching word = 'yellow'and'four'
-3
+21
 Searching word = 'yellow'and'five'
-3
+30
 Searching word = 'yellow'and'six'
-1
+9
 Searching word = 'yellow'and'seven'
-2
+12
 Searching word = 'yellow'and'eight'
-1
+10
 Searching word = 'yellow'and'nine'
-1
+5
 Searching word = 'orange'and'zero'
 0
 Searching word = 'orange'and'one'
-7
+74
 Searching word = 'orange'and'two'
-9
+72
 Searching word = 'orange'and'three'
-0
+14
 Searching word = 'orange'and'four'
-0
+18
 Searching word = 'orange'and'five'
-1
+14
 Searching word = 'orange'and'six'
-0
+5
 Searching word = 'orange'and'seven'
 0
 Searching word = 'orange'and'eight'
-1
+4
 Searching word = 'orange'and'nine'
-1
+6
 Searching word = 'purple'and'zero'
 0
 Searching word = 'purple'and'one'
-3
+34
 Searching word = 'purple'and'two'
-11
+55
 Searching word = 'purple'and'three'
-3
+16
 Searching word = 'purple'and'four'
-1
+6
 Searching word = 'purple'and'five'
 0
 Searching word = 'purple'and'six'
-0
+3
 Searching word = 'purple'and'seven'
 0
 Searching word = 'purple'and'eight'
-1
+5
 Searching word = 'purple'and'nine'
 0
 Searching word = 'pink'and'zero'
 0
 Searching word = 'pink'and'one'
-1
+31
 Searching word = 'pink'and'two'
-1
+36
 Searching word = 'pink'and'three'
-2
+25
 Searching word = 'pink'and'four'
-0
+3
 Searching word = 'pink'and'five'
-2
+26
 Searching word = 'pink'and'six'
-1
+4
 Searching word = 'pink'and'seven'
-0
+3
 Searching word = 'pink'and'eight'
 0
 Searching word = 'pink'and'nine'
@@ -1005,100 +1005,100 @@ Searching word = 'pink'and'nine'
 Searching word = 'brown'and'zero'
 0
 Searching word = 'brown'and'one'
-9
+205
 Searching word = 'brown'and'two'
-15
+268
 Searching word = 'brown'and'three'
-6
+123
 Searching word = 'brown'and'four'
-5
+89
 Searching word = 'brown'and'five'
-2
+70
 Searching word = 'brown'and'six'
-1
+42
 Searching word = 'brown'and'seven'
-2
-Searching word = 'brown'and'eight'
-1
-Searching word = 'brown'and'nine'
-0
-Searching word = 'white'and'zero'
-0
-Searching word = 'white'and'one'
-39
-Searching word = 'white'and'two'
-71
-Searching word = 'white'and'three'
-32
-Searching word = 'white'and'four'
-31
-Searching word = 'white'and'five'
-17
-Searching word = 'white'and'six'
-4
-Searching word = 'white'and'seven'
-2
-Searching word = 'white'and'eight'
-5
-Searching word = 'white'and'nine'
-2
-Searching word = 'black'and'zero'
-0
-Searching word = 'black'and'one'
-46
-Searching word = 'black'and'two'
-103
-Searching word = 'black'and'three'
 33
+Searching word = 'brown'and'eight'
+20
+Searching word = 'brown'and'nine'
+16
+Searching word = 'white'and'zero'
+4
+Searching word = 'white'and'one'
+623
+Searching word = 'white'and'two'
+679
+Searching word = 'white'and'three'
+337
+Searching word = 'white'and'four'
+246
+Searching word = 'white'and'five'
+143
+Searching word = 'white'and'six'
+88
+Searching word = 'white'and'seven'
+246
+Searching word = 'white'and'eight'
+37
+Searching word = 'white'and'nine'
+40
+Searching word = 'black'and'zero'
+16
+Searching word = 'black'and'one'
+597
+Searching word = 'black'and'two'
+710
+Searching word = 'black'and'three'
+266
 Searching word = 'black'and'four'
-22
+162
 Searching word = 'black'and'five'
-7
+84
 Searching word = 'black'and'six'
-7
+104
 Searching word = 'black'and'seven'
-6
+52
 Searching word = 'black'and'eight'
-6
+33
 Searching word = 'black'and'nine'
-8
+53
 Searching word = 'grey'and'zero'
-0
+2
 Searching word = 'grey'and'one'
-2
+47
 Searching word = 'grey'and'two'
-10
+72
 Searching word = 'grey'and'three'
-1
+23
 Searching word = 'grey'and'four'
-2
+31
 Searching word = 'grey'and'five'
-1
+10
 Searching word = 'grey'and'six'
-1
+11
 Searching word = 'grey'and'seven'
-1
+7
 Searching word = 'grey'and'eight'
-1
+8
 Searching word = 'grey'and'nine'
-2
+11
 Searching word = 'gray'and'zero'
 0
 Searching word = 'gray'and'one'
-4
+88
 Searching word = 'gray'and'two'
-3
+55
 Searching word = 'gray'and'three'
-0
+14
 Searching word = 'gray'and'four'
-1
+18
 Searching word = 'gray'and'five'
-0
+3
 Searching word = 'gray'and'six'
-0
+9
 Searching word = 'gray'and'seven'
-0
+6
 Searching word = 'gray'and'eight'
-0
+8
 Searching word = 'gray'and'nine'
-0
+5
