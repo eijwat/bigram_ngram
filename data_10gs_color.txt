@@ -1,0 +1,1104 @@
+Searching word = 'red'and'a'
+38300
+Searching word = 'red'and'b'
+143
+Searching word = 'red'and'c'
+157
+Searching word = 'red'and'd'
+99
+Searching word = 'red'and'e'
+113
+Searching word = 'red'and'f'
+37
+Searching word = 'red'and'g'
+40
+Searching word = 'red'and'h'
+40
+Searching word = 'red'and'i'
+533
+Searching word = 'red'and'j'
+8
+Searching word = 'red'and'k'
+43
+Searching word = 'red'and'l'
+42
+Searching word = 'red'and'm'
+241
+Searching word = 'red'and'n'
+45
+Searching word = 'red'and'o'
+143
+Searching word = 'red'and'p'
+24
+Searching word = 'red'and'q'
+23
+Searching word = 'red'and'r'
+46
+Searching word = 'red'and's'
+217
+Searching word = 'red'and't'
+134
+Searching word = 'red'and'u'
+25
+Searching word = 'red'and'v'
+112
+Searching word = 'red'and'w'
+45
+Searching word = 'red'and'x'
+228
+Searching word = 'red'and'y'
+29
+Searching word = 'red'and'z'
+10
+Searching word = 'blue'and'a'
+22449
+Searching word = 'blue'and'b'
+169
+Searching word = 'blue'and'c'
+53
+Searching word = 'blue'and'd'
+77
+Searching word = 'blue'and'e'
+27
+Searching word = 'blue'and'f'
+38
+Searching word = 'blue'and'g'
+25
+Searching word = 'blue'and'h'
+81
+Searching word = 'blue'and'i'
+366
+Searching word = 'blue'and'j'
+4
+Searching word = 'blue'and'k'
+30
+Searching word = 'blue'and'l'
+41
+Searching word = 'blue'and'm'
+152
+Searching word = 'blue'and'n'
+193
+Searching word = 'blue'and'o'
+161
+Searching word = 'blue'and'p'
+17
+Searching word = 'blue'and'q'
+0
+Searching word = 'blue'and'r'
+27
+Searching word = 'blue'and's'
+148
+Searching word = 'blue'and't'
+110
+Searching word = 'blue'and'u'
+11
+Searching word = 'blue'and'v'
+86
+Searching word = 'blue'and'w'
+25
+Searching word = 'blue'and'x'
+56
+Searching word = 'blue'and'y'
+37
+Searching word = 'blue'and'z'
+52
+Searching word = 'green'and'a'
+20262
+Searching word = 'green'and'b'
+109
+Searching word = 'green'and'c'
+75
+Searching word = 'green'and'd'
+67
+Searching word = 'green'and'e'
+78
+Searching word = 'green'and'f'
+18
+Searching word = 'green'and'g'
+34
+Searching word = 'green'and'h'
+60
+Searching word = 'green'and'i'
+411
+Searching word = 'green'and'j'
+14
+Searching word = 'green'and'k'
+21
+Searching word = 'green'and'l'
+38
+Searching word = 'green'and'm'
+129
+Searching word = 'green'and'n'
+3
+Searching word = 'green'and'o'
+95
+Searching word = 'green'and'p'
+11
+Searching word = 'green'and'q'
+2
+Searching word = 'green'and'r'
+25
+Searching word = 'green'and's'
+247
+Searching word = 'green'and't'
+67
+Searching word = 'green'and'u'
+14
+Searching word = 'green'and'v'
+60
+Searching word = 'green'and'w'
+24
+Searching word = 'green'and'x'
+56
+Searching word = 'green'and'y'
+16
+Searching word = 'green'and'z'
+15
+Searching word = 'yellow'and'a'
+12524
+Searching word = 'yellow'and'b'
+38
+Searching word = 'yellow'and'c'
+65
+Searching word = 'yellow'and'd'
+33
+Searching word = 'yellow'and'e'
+31
+Searching word = 'yellow'and'f'
+24
+Searching word = 'yellow'and'g'
+36
+Searching word = 'yellow'and'h'
+0
+Searching word = 'yellow'and'i'
+242
+Searching word = 'yellow'and'j'
+20
+Searching word = 'yellow'and'k'
+4
+Searching word = 'yellow'and'l'
+25
+Searching word = 'yellow'and'm'
+83
+Searching word = 'yellow'and'n'
+3
+Searching word = 'yellow'and'o'
+25
+Searching word = 'yellow'and'p'
+9
+Searching word = 'yellow'and'q'
+0
+Searching word = 'yellow'and'r'
+22
+Searching word = 'yellow'and's'
+110
+Searching word = 'yellow'and't'
+27
+Searching word = 'yellow'and'u'
+15
+Searching word = 'yellow'and'v'
+25
+Searching word = 'yellow'and'w'
+12
+Searching word = 'yellow'and'x'
+58
+Searching word = 'yellow'and'y'
+0
+Searching word = 'yellow'and'z'
+6
+Searching word = 'orange'and'a'
+5274
+Searching word = 'orange'and'b'
+11
+Searching word = 'orange'and'c'
+29
+Searching word = 'orange'and'd'
+26
+Searching word = 'orange'and'e'
+4
+Searching word = 'orange'and'f'
+6
+Searching word = 'orange'and'g'
+0
+Searching word = 'orange'and'h'
+0
+Searching word = 'orange'and'i'
+103
+Searching word = 'orange'and'j'
+5
+Searching word = 'orange'and'k'
+63
+Searching word = 'orange'and'l'
+15
+Searching word = 'orange'and'm'
+27
+Searching word = 'orange'and'n'
+10
+Searching word = 'orange'and'o'
+4
+Searching word = 'orange'and'p'
+6
+Searching word = 'orange'and'q'
+0
+Searching word = 'orange'and'r'
+7
+Searching word = 'orange'and's'
+19
+Searching word = 'orange'and't'
+28
+Searching word = 'orange'and'u'
+4
+Searching word = 'orange'and'v'
+17
+Searching word = 'orange'and'w'
+4
+Searching word = 'orange'and'x'
+14
+Searching word = 'orange'and'y'
+1
+Searching word = 'orange'and'z'
+0
+Searching word = 'purple'and'a'
+3300
+Searching word = 'purple'and'b'
+12
+Searching word = 'purple'and'c'
+7
+Searching word = 'purple'and'd'
+2
+Searching word = 'purple'and'e'
+12
+Searching word = 'purple'and'f'
+0
+Searching word = 'purple'and'g'
+0
+Searching word = 'purple'and'h'
+0
+Searching word = 'purple'and'i'
+103
+Searching word = 'purple'and'j'
+0
+Searching word = 'purple'and'k'
+8
+Searching word = 'purple'and'l'
+0
+Searching word = 'purple'and'm'
+10
+Searching word = 'purple'and'n'
+2
+Searching word = 'purple'and'o'
+9
+Searching word = 'purple'and'p'
+0
+Searching word = 'purple'and'q'
+7
+Searching word = 'purple'and'r'
+0
+Searching word = 'purple'and's'
+10
+Searching word = 'purple'and't'
+12
+Searching word = 'purple'and'u'
+0
+Searching word = 'purple'and'v'
+28
+Searching word = 'purple'and'w'
+8
+Searching word = 'purple'and'x'
+9
+Searching word = 'purple'and'y'
+1
+Searching word = 'purple'and'z'
+5
+Searching word = 'pink'and'a'
+6161
+Searching word = 'pink'and'b'
+27
+Searching word = 'pink'and'c'
+12
+Searching word = 'pink'and'd'
+10
+Searching word = 'pink'and'e'
+14
+Searching word = 'pink'and'f'
+9
+Searching word = 'pink'and'g'
+14
+Searching word = 'pink'and'h'
+1
+Searching word = 'pink'and'i'
+97
+Searching word = 'pink'and'j'
+5
+Searching word = 'pink'and'k'
+4
+Searching word = 'pink'and'l'
+0
+Searching word = 'pink'and'm'
+23
+Searching word = 'pink'and'n'
+12
+Searching word = 'pink'and'o'
+79
+Searching word = 'pink'and'p'
+8
+Searching word = 'pink'and'q'
+12
+Searching word = 'pink'and'r'
+12
+Searching word = 'pink'and's'
+12
+Searching word = 'pink'and't'
+82
+Searching word = 'pink'and'u'
+21
+Searching word = 'pink'and'v'
+9
+Searching word = 'pink'and'w'
+2
+Searching word = 'pink'and'x'
+21
+Searching word = 'pink'and'y'
+7
+Searching word = 'pink'and'z'
+0
+Searching word = 'brown'and'a'
+22277
+Searching word = 'brown'and'b'
+157
+Searching word = 'brown'and'c'
+57
+Searching word = 'brown'and'd'
+238
+Searching word = 'brown'and'e'
+17
+Searching word = 'brown'and'f'
+4
+Searching word = 'brown'and'g'
+17
+Searching word = 'brown'and'h'
+28
+Searching word = 'brown'and'i'
+556
+Searching word = 'brown'and'j'
+15
+Searching word = 'brown'and'k'
+0
+Searching word = 'brown'and'l'
+0
+Searching word = 'brown'and'm'
+172
+Searching word = 'brown'and'n'
+27
+Searching word = 'brown'and'o'
+174
+Searching word = 'brown'and'p'
+0
+Searching word = 'brown'and'q'
+10
+Searching word = 'brown'and'r'
+115
+Searching word = 'brown'and's'
+185
+Searching word = 'brown'and't'
+101
+Searching word = 'brown'and'u'
+6
+Searching word = 'brown'and'v'
+65
+Searching word = 'brown'and'w'
+4
+Searching word = 'brown'and'x'
+38
+Searching word = 'brown'and'y'
+5
+Searching word = 'brown'and'z'
+16
+Searching word = 'white'and'a'
+57901
+Searching word = 'white'and'b'
+196
+Searching word = 'white'and'c'
+156
+Searching word = 'white'and'd'
+123
+Searching word = 'white'and'e'
+114
+Searching word = 'white'and'f'
+53
+Searching word = 'white'and'g'
+69
+Searching word = 'white'and'h'
+67
+Searching word = 'white'and'i'
+836
+Searching word = 'white'and'j'
+13
+Searching word = 'white'and'k'
+42
+Searching word = 'white'and'l'
+71
+Searching word = 'white'and'm'
+324
+Searching word = 'white'and'n'
+67
+Searching word = 'white'and'o'
+140
+Searching word = 'white'and'p'
+51
+Searching word = 'white'and'q'
+26
+Searching word = 'white'and'r'
+60
+Searching word = 'white'and's'
+339
+Searching word = 'white'and't'
+412
+Searching word = 'white'and'u'
+4
+Searching word = 'white'and'v'
+172
+Searching word = 'white'and'w'
+108
+Searching word = 'white'and'x'
+131
+Searching word = 'white'and'y'
+43
+Searching word = 'white'and'z'
+37
+Searching word = 'black'and'a'
+54985
+Searching word = 'black'and'b'
+167
+Searching word = 'black'and'c'
+75
+Searching word = 'black'and'd'
+176
+Searching word = 'black'and'e'
+112
+Searching word = 'black'and'f'
+51
+Searching word = 'black'and'g'
+43
+Searching word = 'black'and'h'
+19
+Searching word = 'black'and'i'
+1111
+Searching word = 'black'and'j'
+44
+Searching word = 'black'and'k'
+14
+Searching word = 'black'and'l'
+64
+Searching word = 'black'and'm'
+267
+Searching word = 'black'and'n'
+239
+Searching word = 'black'and'o'
+160
+Searching word = 'black'and'p'
+60
+Searching word = 'black'and'q'
+27
+Searching word = 'black'and'r'
+79
+Searching word = 'black'and's'
+269
+Searching word = 'black'and't'
+311
+Searching word = 'black'and'u'
+42
+Searching word = 'black'and'v'
+125
+Searching word = 'black'and'w'
+61
+Searching word = 'black'and'x'
+425
+Searching word = 'black'and'y'
+38
+Searching word = 'black'and'z'
+75
+Searching word = 'grey'and'a'
+7499
+Searching word = 'grey'and'b'
+0
+Searching word = 'grey'and'c'
+12
+Searching word = 'grey'and'd'
+7
+Searching word = 'grey'and'e'
+6
+Searching word = 'grey'and'f'
+0
+Searching word = 'grey'and'g'
+0
+Searching word = 'grey'and'h'
+0
+Searching word = 'grey'and'i'
+140
+Searching word = 'grey'and'j'
+0
+Searching word = 'grey'and'k'
+1
+Searching word = 'grey'and'l'
+2
+Searching word = 'grey'and'm'
+47
+Searching word = 'grey'and'n'
+0
+Searching word = 'grey'and'o'
+44
+Searching word = 'grey'and'p'
+0
+Searching word = 'grey'and'q'
+1
+Searching word = 'grey'and'r'
+0
+Searching word = 'grey'and's'
+255
+Searching word = 'grey'and't'
+11
+Searching word = 'grey'and'u'
+2
+Searching word = 'grey'and'v'
+27
+Searching word = 'grey'and'w'
+10
+Searching word = 'grey'and'x'
+43
+Searching word = 'grey'and'y'
+15
+Searching word = 'grey'and'z'
+22
+Searching word = 'gray'and'a'
+5853
+Searching word = 'gray'and'b'
+7
+Searching word = 'gray'and'c'
+30
+Searching word = 'gray'and'd'
+22
+Searching word = 'gray'and'e'
+10
+Searching word = 'gray'and'f'
+9
+Searching word = 'gray'and'g'
+7
+Searching word = 'gray'and'h'
+7
+Searching word = 'gray'and'i'
+88
+Searching word = 'gray'and'j'
+0
+Searching word = 'gray'and'k'
+7
+Searching word = 'gray'and'l'
+6
+Searching word = 'gray'and'm'
+54
+Searching word = 'gray'and'n'
+8
+Searching word = 'gray'and'o'
+28
+Searching word = 'gray'and'p'
+0
+Searching word = 'gray'and'q'
+0
+Searching word = 'gray'and'r'
+8
+Searching word = 'gray'and's'
+176
+Searching word = 'gray'and't'
+38
+Searching word = 'gray'and'u'
+5
+Searching word = 'gray'and'v'
+28
+Searching word = 'gray'and'w'
+0
+Searching word = 'gray'and'x'
+3
+Searching word = 'gray'and'y'
+8
+Searching word = 'gray'and'z'
+0
+Searching word = 'red'and'0'
+289
+Searching word = 'red'and'1'
+1033
+Searching word = 'red'and'2'
+1023
+Searching word = 'red'and'3'
+840
+Searching word = 'red'and'4'
+606
+Searching word = 'red'and'5'
+640
+Searching word = 'red'and'6'
+435
+Searching word = 'red'and'7'
+393
+Searching word = 'red'and'8'
+304
+Searching word = 'red'and'9'
+254
+Searching word = 'blue'and'0'
+150
+Searching word = 'blue'and'1'
+484
+Searching word = 'blue'and'2'
+488
+Searching word = 'blue'and'3'
+440
+Searching word = 'blue'and'4'
+315
+Searching word = 'blue'and'5'
+181
+Searching word = 'blue'and'6'
+258
+Searching word = 'blue'and'7'
+223
+Searching word = 'blue'and'8'
+163
+Searching word = 'blue'and'9'
+119
+Searching word = 'green'and'0'
+270
+Searching word = 'green'and'1'
+736
+Searching word = 'green'and'2'
+551
+Searching word = 'green'and'3'
+446
+Searching word = 'green'and'4'
+406
+Searching word = 'green'and'5'
+242
+Searching word = 'green'and'6'
+243
+Searching word = 'green'and'7'
+170
+Searching word = 'green'and'8'
+216
+Searching word = 'green'and'9'
+186
+Searching word = 'yellow'and'0'
+132
+Searching word = 'yellow'and'1'
+289
+Searching word = 'yellow'and'2'
+346
+Searching word = 'yellow'and'3'
+246
+Searching word = 'yellow'and'4'
+159
+Searching word = 'yellow'and'5'
+207
+Searching word = 'yellow'and'6'
+145
+Searching word = 'yellow'and'7'
+136
+Searching word = 'yellow'and'8'
+82
+Searching word = 'yellow'and'9'
+89
+Searching word = 'orange'and'0'
+34
+Searching word = 'orange'and'1'
+161
+Searching word = 'orange'and'2'
+143
+Searching word = 'orange'and'3'
+161
+Searching word = 'orange'and'4'
+99
+Searching word = 'orange'and'5'
+115
+Searching word = 'orange'and'6'
+93
+Searching word = 'orange'and'7'
+120
+Searching word = 'orange'and'8'
+101
+Searching word = 'orange'and'9'
+62
+Searching word = 'purple'and'0'
+14
+Searching word = 'purple'and'1'
+26
+Searching word = 'purple'and'2'
+60
+Searching word = 'purple'and'3'
+26
+Searching word = 'purple'and'4'
+43
+Searching word = 'purple'and'5'
+59
+Searching word = 'purple'and'6'
+23
+Searching word = 'purple'and'7'
+17
+Searching word = 'purple'and'8'
+13
+Searching word = 'purple'and'9'
+8
+Searching word = 'pink'and'0'
+28
+Searching word = 'pink'and'1'
+94
+Searching word = 'pink'and'2'
+111
+Searching word = 'pink'and'3'
+121
+Searching word = 'pink'and'4'
+70
+Searching word = 'pink'and'5'
+47
+Searching word = 'pink'and'6'
+28
+Searching word = 'pink'and'7'
+33
+Searching word = 'pink'and'8'
+38
+Searching word = 'pink'and'9'
+8
+Searching word = 'brown'and'0'
+253
+Searching word = 'brown'and'1'
+614
+Searching word = 'brown'and'2'
+406
+Searching word = 'brown'and'3'
+398
+Searching word = 'brown'and'4'
+463
+Searching word = 'brown'and'5'
+359
+Searching word = 'brown'and'6'
+404
+Searching word = 'brown'and'7'
+208
+Searching word = 'brown'and'8'
+286
+Searching word = 'brown'and'9'
+239
+Searching word = 'white'and'0'
+938
+Searching word = 'white'and'1'
+1635
+Searching word = 'white'and'2'
+1250
+Searching word = 'white'and'3'
+1186
+Searching word = 'white'and'4'
+979
+Searching word = 'white'and'5'
+1060
+Searching word = 'white'and'6'
+689
+Searching word = 'white'and'7'
+738
+Searching word = 'white'and'8'
+619
+Searching word = 'white'and'9'
+671
+Searching word = 'black'and'0'
+699
+Searching word = 'black'and'1'
+1050
+Searching word = 'black'and'2'
+917
+Searching word = 'black'and'3'
+922
+Searching word = 'black'and'4'
+691
+Searching word = 'black'and'5'
+649
+Searching word = 'black'and'6'
+474
+Searching word = 'black'and'7'
+384
+Searching word = 'black'and'8'
+375
+Searching word = 'black'and'9'
+380
+Searching word = 'grey'and'0'
+51
+Searching word = 'grey'and'1'
+99
+Searching word = 'grey'and'2'
+117
+Searching word = 'grey'and'3'
+190
+Searching word = 'grey'and'4'
+100
+Searching word = 'grey'and'5'
+57
+Searching word = 'grey'and'6'
+88
+Searching word = 'grey'and'7'
+56
+Searching word = 'grey'and'8'
+50
+Searching word = 'grey'and'9'
+71
+Searching word = 'gray'and'0'
+17
+Searching word = 'gray'and'1'
+88
+Searching word = 'gray'and'2'
+55
+Searching word = 'gray'and'3'
+96
+Searching word = 'gray'and'4'
+63
+Searching word = 'gray'and'5'
+66
+Searching word = 'gray'and'6'
+59
+Searching word = 'gray'and'7'
+69
+Searching word = 'gray'and'8'
+34
+Searching word = 'gray'and'9'
+25
+Searching word = 'red'and'zero'
+23
+Searching word = 'red'and'one'
+2577
+Searching word = 'red'and'two'
+2655
+Searching word = 'red'and'three'
+1709
+Searching word = 'red'and'four'
+907
+Searching word = 'red'and'five'
+629
+Searching word = 'red'and'six'
+501
+Searching word = 'red'and'seven'
+281
+Searching word = 'red'and'eight'
+250
+Searching word = 'red'and'nine'
+170
+Searching word = 'blue'and'zero'
+11
+Searching word = 'blue'and'one'
+1334
+Searching word = 'blue'and'two'
+1486
+Searching word = 'blue'and'three'
+798
+Searching word = 'blue'and'four'
+707
+Searching word = 'blue'and'five'
+487
+Searching word = 'blue'and'six'
+265
+Searching word = 'blue'and'seven'
+99
+Searching word = 'blue'and'eight'
+65
+Searching word = 'blue'and'nine'
+84
+Searching word = 'green'and'zero'
+4
+Searching word = 'green'and'one'
+1515
+Searching word = 'green'and'two'
+1227
+Searching word = 'green'and'three'
+747
+Searching word = 'green'and'four'
+336
+Searching word = 'green'and'five'
+275
+Searching word = 'green'and'six'
+183
+Searching word = 'green'and'seven'
+123
+Searching word = 'green'and'eight'
+98
+Searching word = 'green'and'nine'
+103
+Searching word = 'yellow'and'zero'
+6
+Searching word = 'yellow'and'one'
+512
+Searching word = 'yellow'and'two'
+833
+Searching word = 'yellow'and'three'
+257
+Searching word = 'yellow'and'four'
+170
+Searching word = 'yellow'and'five'
+155
+Searching word = 'yellow'and'six'
+73
+Searching word = 'yellow'and'seven'
+66
+Searching word = 'yellow'and'eight'
+46
+Searching word = 'yellow'and'nine'
+28
+Searching word = 'orange'and'zero'
+0
+Searching word = 'orange'and'one'
+391
+Searching word = 'orange'and'two'
+381
+Searching word = 'orange'and'three'
+127
+Searching word = 'orange'and'four'
+101
+Searching word = 'orange'and'five'
+93
+Searching word = 'orange'and'six'
+40
+Searching word = 'orange'and'seven'
+13
+Searching word = 'orange'and'eight'
+22
+Searching word = 'orange'and'nine'
+38
+Searching word = 'purple'and'zero'
+0
+Searching word = 'purple'and'one'
+181
+Searching word = 'purple'and'two'
+204
+Searching word = 'purple'and'three'
+90
+Searching word = 'purple'and'four'
+22
+Searching word = 'purple'and'five'
+9
+Searching word = 'purple'and'six'
+13
+Searching word = 'purple'and'seven'
+4
+Searching word = 'purple'and'eight'
+33
+Searching word = 'purple'and'nine'
+3
+Searching word = 'pink'and'zero'
+0
+Searching word = 'pink'and'one'
+193
+Searching word = 'pink'and'two'
+269
+Searching word = 'pink'and'three'
+150
+Searching word = 'pink'and'four'
+68
+Searching word = 'pink'and'five'
+109
+Searching word = 'pink'and'six'
+25
+Searching word = 'pink'and'seven'
+24
+Searching word = 'pink'and'eight'
+3
+Searching word = 'pink'and'nine'
+3
+Searching word = 'brown'and'zero'
+1
+Searching word = 'brown'and'one'
+1286
+Searching word = 'brown'and'two'
+1515
+Searching word = 'brown'and'three'
+825
+Searching word = 'brown'and'four'
+500
+Searching word = 'brown'and'five'
+431
+Searching word = 'brown'and'six'
+267
+Searching word = 'brown'and'seven'
+151
+Searching word = 'brown'and'eight'
+120
+Searching word = 'brown'and'nine'
+115
+Searching word = 'white'and'zero'
+40
+Searching word = 'white'and'one'
+3303
+Searching word = 'white'and'two'
+3481
+Searching word = 'white'and'three'
+1871
+Searching word = 'white'and'four'
+1150
+Searching word = 'white'and'five'
+713
+Searching word = 'white'and'six'
+475
+Searching word = 'white'and'seven'
+1034
+Searching word = 'white'and'eight'
+233
+Searching word = 'white'and'nine'
+229
+Searching word = 'black'and'zero'
+90
+Searching word = 'black'and'one'
+3423
+Searching word = 'black'and'two'
+3235
+Searching word = 'black'and'three'
+1388
+Searching word = 'black'and'four'
+795
+Searching word = 'black'and'five'
+463
+Searching word = 'black'and'six'
+535
+Searching word = 'black'and'seven'
+245
+Searching word = 'black'and'eight'
+205
+Searching word = 'black'and'nine'
+216
+Searching word = 'grey'and'zero'
+12
+Searching word = 'grey'and'one'
+322
+Searching word = 'grey'and'two'
+393
+Searching word = 'grey'and'three'
+138
+Searching word = 'grey'and'four'
+176
+Searching word = 'grey'and'five'
+89
+Searching word = 'grey'and'six'
+93
+Searching word = 'grey'and'seven'
+39
+Searching word = 'grey'and'eight'
+36
+Searching word = 'grey'and'nine'
+33
+Searching word = 'gray'and'zero'
+8
+Searching word = 'gray'and'one'
+425
+Searching word = 'gray'and'two'
+327
+Searching word = 'gray'and'three'
+125
+Searching word = 'gray'and'four'
+126
+Searching word = 'gray'and'five'
+51
+Searching word = 'gray'and'six'
+85
+Searching word = 'gray'and'seven'
+34
+Searching word = 'gray'and'eight'
+40
+Searching word = 'gray'and'nine'
+22
